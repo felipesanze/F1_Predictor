@@ -8,8 +8,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1950,1,silverstone,harrison,1906-07-06,British,era,15,,+3 Laps,0.0,7,http://en.wikipedia.org/wiki/1950_British_Grand_Prix
 1950,1,silverstone,etancelin,1896-12-28,French,lago,14,,+5 Laps,0.0,8,http://en.wikipedia.org/wiki/1950_British_Grand_Prix
 1950,1,silverstone,hampshire,1917-12-29,British,maserati,16,,+6 Laps,0.0,9,http://en.wikipedia.org/wiki/1950_British_Grand_Prix
-1950,1,silverstone,shawe_taylor,1915-01-28,British,maserati,20,,+6 Laps,0.0,10,http://en.wikipedia.org/wiki/1950_British_Grand_Prix
 1950,1,silverstone,fry,1915-10-26,British,maserati,20,,+6 Laps,0.0,10,http://en.wikipedia.org/wiki/1950_British_Grand_Prix
+1950,1,silverstone,shawe_taylor,1915-01-28,British,maserati,20,,+6 Laps,0.0,10,http://en.wikipedia.org/wiki/1950_British_Grand_Prix
 1950,1,silverstone,claes,1916-08-11,Belgian,lago,21,,+6 Laps,0.0,11,http://en.wikipedia.org/wiki/1950_British_Grand_Prix
 1950,1,silverstone,fangio,1911-06-24,Argentine,alfa,3,,Oil leak,0.0,12,http://en.wikipedia.org/wiki/1950_British_Grand_Prix
 1950,1,silverstone,kelly,1913-03-13,Irish,alta,19,,Not classified,0.0,13,http://en.wikipedia.org/wiki/1950_British_Grand_Prix
@@ -19,8 +19,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1950,1,silverstone,graffenried,1914-05-18,Swiss,maserati,8,,Engine,0.0,17,http://en.wikipedia.org/wiki/1950_British_Grand_Prix
 1950,1,silverstone,chiron,1899-08-03,Monegasque,maserati,11,,Clutch,0.0,18,http://en.wikipedia.org/wiki/1950_British_Grand_Prix
 1950,1,silverstone,martin,1915-03-24,French,lago,7,,Oil pressure,0.0,19,http://en.wikipedia.org/wiki/1950_British_Grand_Prix
-1950,1,silverstone,peter_walker,1912-10-07,British,era,10,,Gearbox,0.0,20,http://en.wikipedia.org/wiki/1950_British_Grand_Prix
 1950,1,silverstone,rolt,1918-10-16,British,era,10,,Gearbox,0.0,20,http://en.wikipedia.org/wiki/1950_British_Grand_Prix
+1950,1,silverstone,peter_walker,1912-10-07,British,era,10,,Gearbox,0.0,20,http://en.wikipedia.org/wiki/1950_British_Grand_Prix
 1950,1,silverstone,leslie_johnson,1912-03-22,British,era,12,,Supercharger,0.0,21,http://en.wikipedia.org/wiki/1950_British_Grand_Prix
 1950,2,monaco,fangio,1911-06-24,Argentine,alfa,1,11598700.0,Finished,9.0,1,http://en.wikipedia.org/wiki/1950_Monaco_Grand_Prix
 1950,2,monaco,ascari,1918-07-13,Italian,ferrari,7,,+1 Lap,6.0,2,http://en.wikipedia.org/wiki/1950_Monaco_Grand_Prix
@@ -47,8 +47,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1950,3,indianapolis,holland,1907-12-18,American,deidt,10,,+1 Lap,6.0,2,http://en.wikipedia.org/wiki/1950_Indianapolis_500
 1950,3,indianapolis,rose,1906-05-26,American,deidt,3,,+1 Lap,4.0,3,http://en.wikipedia.org/wiki/1950_Indianapolis_500
 1950,3,indianapolis,green,1919-09-30,American,kurtis_kraft,12,,+1 Lap,3.0,4,http://en.wikipedia.org/wiki/1950_Indianapolis_500
-1950,3,indianapolis,bettenhausen,1916-09-12,American,kurtis_kraft,9,,+2 Laps,1.0,5,http://en.wikipedia.org/wiki/1950_Indianapolis_500
 1950,3,indianapolis,chitwood,1912-04-14,American,kurtis_kraft,9,,+2 Laps,1.0,5,http://en.wikipedia.org/wiki/1950_Indianapolis_500
+1950,3,indianapolis,bettenhausen,1916-09-12,American,kurtis_kraft,9,,+2 Laps,1.0,5,http://en.wikipedia.org/wiki/1950_Indianapolis_500
 1950,3,indianapolis,wallard,1910-09-07,American,moore,23,,+2 Laps,0.0,6,http://en.wikipedia.org/wiki/1950_Indianapolis_500
 1950,3,indianapolis,faulkner,1920-02-16,American,kurtis_kraft,1,,+3 Laps,0.0,7,http://en.wikipedia.org/wiki/1950_Indianapolis_500
 1950,3,indianapolis,george_connor,1906-08-16,American,lesovsky,4,,+3 Laps,0.0,8,http://en.wikipedia.org/wiki/1950_Indianapolis_500
@@ -70,8 +70,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1950,3,indianapolis,rathmann,1928-07-16,American,wetteroth,28,,+16 Laps,0.0,24,http://en.wikipedia.org/wiki/1950_Indianapolis_500
 1950,3,indianapolis,banks,1913-06-14,American,maserati,21,,Oil line,0.0,25,http://en.wikipedia.org/wiki/1950_Indianapolis_500
 1950,3,indianapolis,schindler,1909-03-06,American,snowberger,22,,Transmission,0.0,26,http://en.wikipedia.org/wiki/1950_Indianapolis_500
-1950,3,indianapolis,cantrell,1908-01-31,American,adams,17,,Oil pressure,0.0,27,http://en.wikipedia.org/wiki/1950_Indianapolis_500
 1950,3,indianapolis,levrett,1914-02-14,American,adams,17,,Oil pressure,0.0,27,http://en.wikipedia.org/wiki/1950_Indianapolis_500
+1950,3,indianapolis,cantrell,1908-01-31,American,adams,17,,Oil pressure,0.0,27,http://en.wikipedia.org/wiki/1950_Indianapolis_500
 1950,3,indianapolis,agabashian,1913-08-21,American,kurtis_kraft,2,,Oil leak,0.0,28,http://en.wikipedia.org/wiki/1950_Indianapolis_500
 1950,4,bremgarten,farina,1906-10-30,Italian,alfa,2,7373700.0,Finished,9.0,1,http://en.wikipedia.org/wiki/1950_Swiss_Grand_Prix
 1950,4,bremgarten,fagioli,1898-06-09,Italian,alfa,3,7374100.0,Finished,6.0,2,http://en.wikipedia.org/wiki/1950_Swiss_Grand_Prix
@@ -111,8 +111,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1950,6,reims,manzon,1917-04-12,French,simca,12,,+3 Laps,3.0,4,http://en.wikipedia.org/wiki/1950_French_Grand_Prix
 1950,6,reims,etancelin,1896-12-28,French,lago,4,,+5 Laps,1.0,5,http://en.wikipedia.org/wiki/1950_French_Grand_Prix
 1950,6,reims,chaboud,1907-04-12,French,lago,4,,+5 Laps,1.0,5,http://en.wikipedia.org/wiki/1950_French_Grand_Prix
-1950,6,reims,rosier,1905-11-05,French,lago,15,,+8 Laps,0.0,6,http://en.wikipedia.org/wiki/1950_French_Grand_Prix
 1950,6,reims,pozzi,1909-08-27,French,lago,15,,+8 Laps,0.0,6,http://en.wikipedia.org/wiki/1950_French_Grand_Prix
+1950,6,reims,rosier,1905-11-05,French,lago,15,,+8 Laps,0.0,6,http://en.wikipedia.org/wiki/1950_French_Grand_Prix
 1950,6,reims,farina,1906-10-30,Italian,alfa,2,,Fuel pump,0.0,7,http://en.wikipedia.org/wiki/1950_French_Grand_Prix
 1950,6,reims,cabantous,1904-10-08,French,lago,5,,+12 Laps,0.0,8,http://en.wikipedia.org/wiki/1950_French_Grand_Prix
 1950,6,reims,levegh,1905-12-22,French,lago,9,,Engine,0.0,9,http://en.wikipedia.org/wiki/1950_French_Grand_Prix
@@ -138,8 +138,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1950,7,monza,sommer,1906-08-31,French,lago,8,,Gearbox,0.0,10,http://en.wikipedia.org/wiki/1950_Italian_Grand_Prix
 1950,7,monza,guy_mairesse,1910-08-10,French,lago,11,,Oil pipe,0.0,11,http://en.wikipedia.org/wiki/1950_Italian_Grand_Prix
 1950,7,monza,rol,1908-06-05,Italian,maserati,9,,Retired,0.0,12,http://en.wikipedia.org/wiki/1950_Italian_Grand_Prix
-1950,7,monza,fangio,1911-06-24,Argentine,alfa,7,,Engine,0.0,13,http://en.wikipedia.org/wiki/1950_Italian_Grand_Prix
 1950,7,monza,taruffi,1906-10-12,Italian,alfa,7,,Engine,0.0,13,http://en.wikipedia.org/wiki/1950_Italian_Grand_Prix
+1950,7,monza,fangio,1911-06-24,Argentine,alfa,7,,Engine,0.0,13,http://en.wikipedia.org/wiki/1950_Italian_Grand_Prix
 1950,7,monza,levegh,1905-12-22,French,lago,20,,Gearbox,0.0,14,http://en.wikipedia.org/wiki/1950_Italian_Grand_Prix
 1950,7,monza,fangio,1911-06-24,Argentine,alfa,1,,Gearbox,1.0,15,http://en.wikipedia.org/wiki/1950_Italian_Grand_Prix
 1950,7,monza,claes,1916-08-11,Belgian,lago,22,,Overheating,0.0,16,http://en.wikipedia.org/wiki/1950_Italian_Grand_Prix
@@ -177,8 +177,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1951,1,bremgarten,hirt,1910-03-30,Swiss,veritas,16,,Fuel system,0.0,21,http://en.wikipedia.org/wiki/1951_Swiss_Grand_Prix
 1951,2,indianapolis,wallard,1910-09-07,American,kurtis_kraft,2,14258050.0,Finished,9.0,1,http://en.wikipedia.org/wiki/1951_Indianapolis_500
 1951,2,indianapolis,nazaruk,1921-10-02,American,kurtis_kraft,7,14365290.0,Finished,6.0,2,http://en.wikipedia.org/wiki/1951_Indianapolis_500
-1951,2,indianapolis,ayulo,1921-10-20,American,kurtis_kraft,3,14429440.0,Finished,2.0,3,http://en.wikipedia.org/wiki/1951_Indianapolis_500
 1951,2,indianapolis,mcgrath,1919-10-08,American,kurtis_kraft,3,14429440.0,Finished,2.0,3,http://en.wikipedia.org/wiki/1951_Indianapolis_500
+1951,2,indianapolis,ayulo,1921-10-20,American,kurtis_kraft,3,14429440.0,Finished,2.0,3,http://en.wikipedia.org/wiki/1951_Indianapolis_500
 1951,2,indianapolis,linden,1922-04-05,American,sherman,31,14538170.0,Finished,3.0,4,http://en.wikipedia.org/wiki/1951_Indianapolis_500
 1951,2,indianapolis,ball,1925-08-26,American,schroeder,29,14550280.0,Finished,2.0,5,http://en.wikipedia.org/wiki/1951_Indianapolis_500
 1951,2,indianapolis,banks,1913-06-14,American,moore,17,14598070.0,Finished,0.0,6,http://en.wikipedia.org/wiki/1951_Indianapolis_500
@@ -220,8 +220,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1951,3,spa,etancelin,1896-12-28,French,lago,10,,Transmission,0.0,13,http://en.wikipedia.org/wiki/1951_Belgian_Grand_Prix
 1951,4,reims,fagioli,1898-06-09,Italian,alfa,7,12131000.0,Finished,4.0,1,http://en.wikipedia.org/wiki/1951_French_Grand_Prix
 1951,4,reims,fangio,1911-06-24,Argentine,alfa,7,12131000.0,Finished,5.0,1,http://en.wikipedia.org/wiki/1951_French_Grand_Prix
-1951,4,reims,gonzalez,1922-10-05,Argentine,ferrari,6,12189200.0,Finished,3.0,2,http://en.wikipedia.org/wiki/1951_French_Grand_Prix
 1951,4,reims,ascari,1918-07-13,Italian,ferrari,6,12189200.0,Finished,3.0,2,http://en.wikipedia.org/wiki/1951_French_Grand_Prix
+1951,4,reims,gonzalez,1922-10-05,Argentine,ferrari,6,12189200.0,Finished,3.0,2,http://en.wikipedia.org/wiki/1951_French_Grand_Prix
 1951,4,reims,villoresi,1909-05-16,Italian,ferrari,4,,+3 Laps,4.0,3,http://en.wikipedia.org/wiki/1951_French_Grand_Prix
 1951,4,reims,reg_parnell,1911-07-02,British,ferrari,9,,+4 Laps,3.0,4,http://en.wikipedia.org/wiki/1951_French_Grand_Prix
 1951,4,reims,farina,1906-10-30,Italian,alfa,2,,+4 Laps,2.0,5,http://en.wikipedia.org/wiki/1951_French_Grand_Prix
@@ -230,8 +230,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1951,4,reims,chaboud,1907-04-12,French,lago,14,,+8 Laps,0.0,8,http://en.wikipedia.org/wiki/1951_French_Grand_Prix
 1951,4,reims,guy_mairesse,1910-08-10,French,lago,19,,+11 Laps,0.0,9,http://en.wikipedia.org/wiki/1951_French_Grand_Prix
 1951,4,reims,sanesi,1911-03-28,Italian,alfa,5,,+19 Laps,0.0,10,http://en.wikipedia.org/wiki/1951_French_Grand_Prix
-1951,4,reims,fangio,1911-06-24,Argentine,alfa,1,,+22 Laps,0.0,11,http://en.wikipedia.org/wiki/1951_French_Grand_Prix
 1951,4,reims,fagioli,1898-06-09,Italian,alfa,1,,+22 Laps,0.0,11,http://en.wikipedia.org/wiki/1951_French_Grand_Prix
+1951,4,reims,fangio,1911-06-24,Argentine,alfa,1,,+22 Laps,0.0,11,http://en.wikipedia.org/wiki/1951_French_Grand_Prix
 1951,4,reims,claes,1916-08-11,Belgian,lago,12,,Accident,0.0,12,http://en.wikipedia.org/wiki/1951_French_Grand_Prix
 1951,4,reims,rosier,1905-11-05,French,lago,13,,Transmission,0.0,13,http://en.wikipedia.org/wiki/1951_French_Grand_Prix
 1951,4,reims,etancelin,1896-12-28,French,lago,10,,Engine,0.0,14,http://en.wikipedia.org/wiki/1951_French_Grand_Prix
@@ -338,8 +338,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1952,1,bremgarten,hirt,1910-03-30,Swiss,ferrari,19,,+6 Laps,0.0,7,http://en.wikipedia.org/wiki/1952_Swiss_Grand_Prix
 1952,1,bremgarten,brandon,1920-07-18,British,cooper,17,,+7 Laps,0.0,8,http://en.wikipedia.org/wiki/1952_Swiss_Grand_Prix
 1952,1,bremgarten,bira,1914-07-15,Thai,simca,11,,Engine,0.0,9,http://en.wikipedia.org/wiki/1952_Swiss_Grand_Prix
-1952,1,bremgarten,simon,1920-01-05,French,ferrari,4,,Magneto,0.0,10,http://en.wikipedia.org/wiki/1952_Swiss_Grand_Prix
 1952,1,bremgarten,farina,1906-10-30,Italian,ferrari,4,,Magneto,0.0,10,http://en.wikipedia.org/wiki/1952_Swiss_Grand_Prix
+1952,1,bremgarten,simon,1920-01-05,French,ferrari,4,,Magneto,0.0,10,http://en.wikipedia.org/wiki/1952_Swiss_Grand_Prix
 1952,1,bremgarten,schell,1921-06-29,American,maserati,18,,Engine,0.0,11,http://en.wikipedia.org/wiki/1952_Swiss_Grand_Prix
 1952,1,bremgarten,moss,1929-09-17,British,hwm,9,,Withdrew,0.0,12,http://en.wikipedia.org/wiki/1952_Swiss_Grand_Prix
 1952,1,bremgarten,macklin,1919-09-02,British,hwm,12,,Withdrew,0.0,13,http://en.wikipedia.org/wiki/1952_Swiss_Grand_Prix
@@ -493,8 +493,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1952,7,zandvoort,trintignant,1917-10-30,French,gordini,5,,+3 Laps,0.0,6,http://en.wikipedia.org/wiki/1952_Dutch_Grand_Prix
 1952,7,zandvoort,duncan_hamilton,1920-04-30,British,hwm,10,,+5 Laps,0.0,7,http://en.wikipedia.org/wiki/1952_Dutch_Grand_Prix
 1952,7,zandvoort,macklin,1919-09-02,British,hwm,9,,+6 Laps,0.0,8,http://en.wikipedia.org/wiki/1952_Dutch_Grand_Prix
-1952,7,zandvoort,landi,1907-07-14,Brazilian,maserati,16,,+7 Laps,0.0,9,http://en.wikipedia.org/wiki/1952_Dutch_Grand_Prix
 1952,7,zandvoort,flinterman,1919-10-02,Dutch,maserati,16,,+7 Laps,0.0,9,http://en.wikipedia.org/wiki/1952_Dutch_Grand_Prix
+1952,7,zandvoort,landi,1907-07-14,Brazilian,maserati,16,,+7 Laps,0.0,9,http://en.wikipedia.org/wiki/1952_Dutch_Grand_Prix
 1952,7,zandvoort,wharton,1916-03-21,British,frazer_nash,7,,Wheel bearing,0.0,10,http://en.wikipedia.org/wiki/1952_Dutch_Grand_Prix
 1952,7,zandvoort,moss,1929-09-17,British,era,18,,Engine,0.0,11,http://en.wikipedia.org/wiki/1952_Dutch_Grand_Prix
 1952,7,zandvoort,lof,1919-08-23,Dutch,hwm,14,,Not classified,0.0,12,http://en.wikipedia.org/wiki/1952_Dutch_Grand_Prix
@@ -540,8 +540,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1953,1,galvez,hawthorn,1929-04-10,British,ferrari,6,,+1 Lap,3.0,4,http://en.wikipedia.org/wiki/1953_Argentine_Grand_Prix
 1953,1,galvez,galvez,1913-08-17,Argentine,maserati,9,,+1 Lap,2.0,5,http://en.wikipedia.org/wiki/1953_Argentine_Grand_Prix
 1953,1,galvez,behra,1921-02-16,French,gordini,11,,+3 Laps,0.0,6,http://en.wikipedia.org/wiki/1953_Argentine_Grand_Prix
-1953,1,galvez,schell,1921-06-29,American,gordini,7,,+6 Laps,0.0,7,http://en.wikipedia.org/wiki/1953_Argentine_Grand_Prix
 1953,1,galvez,trintignant,1917-10-30,French,gordini,7,,+6 Laps,0.0,7,http://en.wikipedia.org/wiki/1953_Argentine_Grand_Prix
+1953,1,galvez,schell,1921-06-29,American,gordini,7,,+6 Laps,0.0,7,http://en.wikipedia.org/wiki/1953_Argentine_Grand_Prix
 1953,1,galvez,john_barber,1929-07-22,British,cooper,16,,+7 Laps,0.0,8,http://en.wikipedia.org/wiki/1953_Argentine_Grand_Prix
 1953,1,galvez,alan_brown,1919-11-20,British,cooper,12,,+10 Laps,0.0,9,http://en.wikipedia.org/wiki/1953_Argentine_Grand_Prix
 1953,1,galvez,manzon,1917-04-12,French,gordini,8,,Wheel,0.0,10,http://en.wikipedia.org/wiki/1953_Argentine_Grand_Prix
@@ -559,12 +559,12 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1953,2,indianapolis,agabashian,1913-08-21,American,kurtis_kraft,2,14260930.0,Finished,,4,http://en.wikipedia.org/wiki/1953_Indianapolis_500
 1953,2,indianapolis,mcgrath,1919-10-08,American,kurtis_kraft,3,14451330.0,Finished,2.0,5,http://en.wikipedia.org/wiki/1953_Indianapolis_500
 1953,2,indianapolis,daywalt,1924-08-28,American,kurtis_kraft,21,14471900.0,Finished,0.0,6,http://en.wikipedia.org/wiki/1953_Indianapolis_500
-1953,2,indianapolis,johnson,1919-02-10,American,kurtis_kraft,25,14507710.0,Finished,0.0,7,http://en.wikipedia.org/wiki/1953_Indianapolis_500
 1953,2,indianapolis,rathmann,1928-07-16,American,kurtis_kraft,25,14507710.0,Finished,0.0,7,http://en.wikipedia.org/wiki/1953_Indianapolis_500
+1953,2,indianapolis,johnson,1919-02-10,American,kurtis_kraft,25,14507710.0,Finished,0.0,7,http://en.wikipedia.org/wiki/1953_Indianapolis_500
 1953,2,indianapolis,mccoy,1921-02-19,American,stevens,20,14586240.0,Finished,0.0,8,http://en.wikipedia.org/wiki/1953_Indianapolis_500
+1953,2,indianapolis,hartley,1926-01-28,American,kuzma,6,,Accident,0.0,9,http://en.wikipedia.org/wiki/1953_Indianapolis_500
 1953,2,indianapolis,bettenhausen,1916-09-12,American,kuzma,6,,Accident,0.0,9,http://en.wikipedia.org/wiki/1953_Indianapolis_500
 1953,2,indianapolis,stevenson,1919-10-15,American,kuzma,6,,Accident,0.0,9,http://en.wikipedia.org/wiki/1953_Indianapolis_500
-1953,2,indianapolis,hartley,1926-01-28,American,kuzma,6,,Accident,0.0,9,http://en.wikipedia.org/wiki/1953_Indianapolis_500
 1953,2,indianapolis,davies,1929-08-08,American,kurtis_kraft,32,,+7 Laps,0.0,10,http://en.wikipedia.org/wiki/1953_Indianapolis_500
 1953,2,indianapolis,nalon,1913-03-02,American,kurtis_kraft,26,,Accident,0.0,11,http://en.wikipedia.org/wiki/1953_Indianapolis_500
 1953,2,indianapolis,scarborough,1914-07-03,American,kurtis_kraft,19,,+10 Laps,0.0,12,http://en.wikipedia.org/wiki/1953_Indianapolis_500
@@ -574,17 +574,17 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1953,2,indianapolis,rathmann,1928-07-16,American,kurtis_kraft,28,,Magneto,0.0,15,http://en.wikipedia.org/wiki/1953_Indianapolis_500
 1953,2,indianapolis,holland,1907-12-18,American,kurtis_kraft,28,,Magneto,0.0,15,http://en.wikipedia.org/wiki/1953_Indianapolis_500
 1953,2,indianapolis,ward,1921-01-10,American,kurtis_kraft,10,,Axle,0.0,16,http://en.wikipedia.org/wiki/1953_Indianapolis_500
-1953,2,indianapolis,dinsmore,1913-04-10,American,kurtis_kraft,10,,Axle,0.0,16,http://en.wikipedia.org/wiki/1953_Indianapolis_500
 1953,2,indianapolis,linden,1922-04-05,American,kurtis_kraft,10,,Axle,0.0,16,http://en.wikipedia.org/wiki/1953_Indianapolis_500
+1953,2,indianapolis,dinsmore,1913-04-10,American,kurtis_kraft,10,,Axle,0.0,16,http://en.wikipedia.org/wiki/1953_Indianapolis_500
 1953,2,indianapolis,mantz,1918-09-18,American,kurtis_kraft,14,,+24 Laps,0.0,17,http://en.wikipedia.org/wiki/1953_Indianapolis_500
 1953,2,indianapolis,faulkner,1920-02-16,American,kurtis_kraft,14,,+24 Laps,0.0,17,http://en.wikipedia.org/wiki/1953_Indianapolis_500
 1953,2,indianapolis,teague,1921-02-22,American,kurtis_kraft,22,,Oil leak,0.0,18,http://en.wikipedia.org/wiki/1953_Indianapolis_500
+1953,2,indianapolis,webb,1910-10-08,American,kurtis_kraft,18,,Oil leak,0.0,19,http://en.wikipedia.org/wiki/1953_Indianapolis_500
 1953,2,indianapolis,thomson,1922-04-09,American,kurtis_kraft,18,,Oil leak,0.0,19,http://en.wikipedia.org/wiki/1953_Indianapolis_500
-1953,2,indianapolis,holmes,1920-09-04,American,kurtis_kraft,18,,Oil leak,0.0,19,http://en.wikipedia.org/wiki/1953_Indianapolis_500
 1953,3,zandvoort,ascari,1918-07-13,Italian,ferrari,1,10415800.0,Finished,8.0,1,http://en.wikipedia.org/wiki/1953_Dutch_Grand_Prix
 1953,3,zandvoort,farina,1906-10-30,Italian,ferrari,3,10426200.0,Finished,6.0,2,http://en.wikipedia.org/wiki/1953_Dutch_Grand_Prix
-1953,3,zandvoort,bonetto,1903-06-09,Italian,maserati,13,,+1 Lap,2.0,3,http://en.wikipedia.org/wiki/1953_Dutch_Grand_Prix
 1953,3,zandvoort,gonzalez,1922-10-05,Argentine,maserati,13,,+1 Lap,2.0,3,http://en.wikipedia.org/wiki/1953_Dutch_Grand_Prix
+1953,3,zandvoort,bonetto,1903-06-09,Italian,maserati,13,,+1 Lap,2.0,3,http://en.wikipedia.org/wiki/1953_Dutch_Grand_Prix
 1953,3,zandvoort,hawthorn,1929-04-10,British,ferrari,6,,+1 Lap,3.0,4,http://en.wikipedia.org/wiki/1953_Dutch_Grand_Prix
 1953,3,zandvoort,graffenried,1914-05-18,Swiss,maserati,7,,+2 Laps,2.0,5,http://en.wikipedia.org/wiki/1953_Dutch_Grand_Prix
 1953,3,zandvoort,trintignant,1917-10-30,French,gordini,12,,+3 Laps,0.0,6,http://en.wikipedia.org/wiki/1953_Dutch_Grand_Prix
@@ -612,8 +612,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1953,4,spa,wacker,1918-07-10,American,gordini,15,,+4 Laps,0.0,9,http://en.wikipedia.org/wiki/1953_Belgian_Grand_Prix
 1953,4,spa,frere,1917-01-30,Belgian,hwm,11,,+6 Laps,0.0,10,http://en.wikipedia.org/wiki/1953_Belgian_Grand_Prix
 1953,4,spa,andre_pilette,1918-10-06,Belgian,connaught,18,,+7 Laps,0.0,11,http://en.wikipedia.org/wiki/1953_Belgian_Grand_Prix
-1953,4,spa,claes,1916-08-11,Belgian,maserati,10,,Accident,0.0,12,http://en.wikipedia.org/wiki/1953_Belgian_Grand_Prix
 1953,4,spa,fangio,1911-06-24,Argentine,maserati,10,,Accident,0.0,12,http://en.wikipedia.org/wiki/1953_Belgian_Grand_Prix
+1953,4,spa,claes,1916-08-11,Belgian,maserati,10,,Accident,0.0,12,http://en.wikipedia.org/wiki/1953_Belgian_Grand_Prix
 1953,4,spa,macklin,1919-09-02,British,hwm,17,,Engine,0.0,13,http://en.wikipedia.org/wiki/1953_Belgian_Grand_Prix
 1953,4,spa,farina,1906-10-30,Italian,ferrari,4,,Engine,0.0,14,http://en.wikipedia.org/wiki/1953_Belgian_Grand_Prix
 1953,4,spa,fangio,1911-06-24,Argentine,maserati,1,,Engine,0.0,15,http://en.wikipedia.org/wiki/1953_Belgian_Grand_Prix
@@ -681,8 +681,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1953,7,nurburgring,graffenried,1914-05-18,Swiss,maserati,11,,+1 Lap,2.0,5,http://en.wikipedia.org/wiki/1953_German_Grand_Prix
 1953,7,nurburgring,moss,1929-09-17,British,cooper,12,,+1 Lap,0.0,6,http://en.wikipedia.org/wiki/1953_German_Grand_Prix
 1953,7,nurburgring,swaters,1926-10-30,American,ferrari,19,,+1 Lap,0.0,7,http://en.wikipedia.org/wiki/1953_German_Grand_Prix
-1953,7,nurburgring,villoresi,1909-05-16,Italian,ferrari,1,,+1 Lap,0.0,8,http://en.wikipedia.org/wiki/1953_German_Grand_Prix
 1953,7,nurburgring,ascari,1918-07-13,Italian,ferrari,1,,+1 Lap,0.0,8,http://en.wikipedia.org/wiki/1953_German_Grand_Prix
+1953,7,nurburgring,villoresi,1909-05-16,Italian,ferrari,1,,+1 Lap,0.0,8,http://en.wikipedia.org/wiki/1953_German_Grand_Prix
 1953,7,nurburgring,herrmann,1928-02-23,German,veritas,14,,+1 Lap,0.0,9,http://en.wikipedia.org/wiki/1953_German_Grand_Prix
 1953,7,nurburgring,rosier,1905-11-05,French,ferrari,22,,+1 Lap,0.0,10,http://en.wikipedia.org/wiki/1953_German_Grand_Prix
 1953,7,nurburgring,nuckey,1929-06-26,British,cooper,20,,+2 Laps,0.0,11,http://en.wikipedia.org/wiki/1953_German_Grand_Prix
@@ -707,8 +707,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1953,8,bremgarten,ascari,1918-07-13,Italian,ferrari,2,10894400.0,Finished,9.0,1,http://en.wikipedia.org/wiki/1953_Swiss_Grand_Prix
 1953,8,bremgarten,farina,1906-10-30,Italian,ferrari,3,10967330.0,Finished,6.0,2,http://en.wikipedia.org/wiki/1953_Swiss_Grand_Prix
 1953,8,bremgarten,hawthorn,1929-04-10,British,ferrari,7,10990360.0,Finished,4.0,3,http://en.wikipedia.org/wiki/1953_Swiss_Grand_Prix
-1953,8,bremgarten,bonetto,1903-06-09,Italian,maserati,1,,+1 Lap,,4,http://en.wikipedia.org/wiki/1953_Swiss_Grand_Prix
 1953,8,bremgarten,fangio,1911-06-24,Argentine,maserati,1,,+1 Lap,,4,http://en.wikipedia.org/wiki/1953_Swiss_Grand_Prix
+1953,8,bremgarten,bonetto,1903-06-09,Italian,maserati,1,,+1 Lap,,4,http://en.wikipedia.org/wiki/1953_Swiss_Grand_Prix
 1953,8,bremgarten,lang,1909-04-06,German,maserati,11,,+3 Laps,2.0,5,http://en.wikipedia.org/wiki/1953_Swiss_Grand_Prix
 1953,8,bremgarten,villoresi,1909-05-16,Italian,ferrari,6,,+3 Laps,0.0,6,http://en.wikipedia.org/wiki/1953_Swiss_Grand_Prix
 1953,8,bremgarten,wharton,1916-03-21,British,cooper,9,,+3 Laps,0.0,7,http://en.wikipedia.org/wiki/1953_Swiss_Grand_Prix
@@ -732,8 +732,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1953,9,monza,hawthorn,1929-04-10,British,ferrari,6,,+1 Lap,3.0,4,http://en.wikipedia.org/wiki/1953_Italian_Grand_Prix
 1953,9,monza,trintignant,1917-10-30,French,gordini,8,,+1 Lap,2.0,5,http://en.wikipedia.org/wiki/1953_Italian_Grand_Prix
 1953,9,monza,mieres,1924-12-03,Argentine,gordini,16,,+3 Laps,0.0,6,http://en.wikipedia.org/wiki/1953_Italian_Grand_Prix
-1953,9,monza,musso,1924-07-28,Italian,maserati,12,,+4 Laps,0.0,7,http://en.wikipedia.org/wiki/1953_Italian_Grand_Prix
 1953,9,monza,mantovani,1929-05-22,Italian,maserati,12,,+4 Laps,0.0,7,http://en.wikipedia.org/wiki/1953_Italian_Grand_Prix
+1953,9,monza,musso,1924-07-28,Italian,maserati,12,,+4 Laps,0.0,7,http://en.wikipedia.org/wiki/1953_Italian_Grand_Prix
 1953,9,monza,maglioli,1928-06-05,Italian,ferrari,11,,+5 Laps,0.0,8,http://en.wikipedia.org/wiki/1953_Italian_Grand_Prix
 1953,9,monza,schell,1921-06-29,American,gordini,15,,+5 Laps,0.0,9,http://en.wikipedia.org/wiki/1953_Italian_Grand_Prix
 1953,9,monza,chiron,1899-08-03,Monegasque,osca,25,,+8 Laps,0.0,10,http://en.wikipedia.org/wiki/1953_Italian_Grand_Prix
@@ -786,29 +786,29 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1954,2,indianapolis,paul_russo,1914-04-10,American,kurtis_kraft,32,14058440.0,Finished,0.0,8,http://en.wikipedia.org/wiki/1954_Indianapolis_500
 1954,2,indianapolis,crockett,1926-10-23,American,kurtis_kraft,25,14184510.0,Finished,0.0,9,http://en.wikipedia.org/wiki/1954_Indianapolis_500
 1954,2,indianapolis,niday,1914-04-29,American,stevens,13,14184960.0,Finished,0.0,10,http://en.wikipedia.org/wiki/1954_Indianapolis_500
-1954,2,indianapolis,parsons,1918-07-04,American,kurtis_kraft,27,14259460.0,Finished,0.0,11,http://en.wikipedia.org/wiki/1954_Indianapolis_500
-1954,2,indianapolis,cross,1918-01-24,American,kurtis_kraft,27,14259460.0,Finished,0.0,11,http://en.wikipedia.org/wiki/1954_Indianapolis_500
 1954,2,indianapolis,hanks,1914-07-13,American,kurtis_kraft,27,14259460.0,Finished,0.0,11,http://en.wikipedia.org/wiki/1954_Indianapolis_500
 1954,2,indianapolis,linden,1922-04-05,American,kurtis_kraft,27,14259460.0,Finished,0.0,11,http://en.wikipedia.org/wiki/1954_Indianapolis_500
 1954,2,indianapolis,davies,1929-08-08,American,kurtis_kraft,27,14259460.0,Finished,0.0,11,http://en.wikipedia.org/wiki/1954_Indianapolis_500
-1954,2,indianapolis,faulkner,1920-02-16,American,kuzma,5,,+1 Lap,0.0,12,http://en.wikipedia.org/wiki/1954_Indianapolis_500
+1954,2,indianapolis,parsons,1918-07-04,American,kurtis_kraft,27,14259460.0,Finished,0.0,11,http://en.wikipedia.org/wiki/1954_Indianapolis_500
+1954,2,indianapolis,cross,1918-01-24,American,kurtis_kraft,27,14259460.0,Finished,0.0,11,http://en.wikipedia.org/wiki/1954_Indianapolis_500
 1954,2,indianapolis,stevenson,1919-10-15,American,kuzma,5,,+1 Lap,0.0,12,http://en.wikipedia.org/wiki/1954_Indianapolis_500
+1954,2,indianapolis,faulkner,1920-02-16,American,kuzma,5,,+1 Lap,0.0,12,http://en.wikipedia.org/wiki/1954_Indianapolis_500
 1954,2,indianapolis,ayulo,1921-10-20,American,kuzma,22,,+3 Laps,0.0,13,http://en.wikipedia.org/wiki/1954_Indianapolis_500
 1954,2,indianapolis,sweikert,1926-05-20,American,kurtis_kraft,9,,+3 Laps,0.0,14,http://en.wikipedia.org/wiki/1954_Indianapolis_500
-1954,2,indianapolis,darter,1913-05-05,American,kurtis_kraft,8,,+4 Laps,0.0,15,http://en.wikipedia.org/wiki/1954_Indianapolis_500
+1954,2,indianapolis,teague,1921-02-22,American,kurtis_kraft,8,,+4 Laps,0.0,15,http://en.wikipedia.org/wiki/1954_Indianapolis_500
 1954,2,indianapolis,jackson,1910-07-25,American,kurtis_kraft,8,,+4 Laps,0.0,15,http://en.wikipedia.org/wiki/1954_Indianapolis_500
 1954,2,indianapolis,bettenhausen,1916-09-12,American,kurtis_kraft,8,,+4 Laps,0.0,15,http://en.wikipedia.org/wiki/1954_Indianapolis_500
-1954,2,indianapolis,teague,1921-02-22,American,kurtis_kraft,8,,+4 Laps,0.0,15,http://en.wikipedia.org/wiki/1954_Indianapolis_500
+1954,2,indianapolis,darter,1913-05-05,American,kurtis_kraft,8,,+4 Laps,0.0,15,http://en.wikipedia.org/wiki/1954_Indianapolis_500
 1954,2,indianapolis,mccoy,1921-02-19,American,kurtis_kraft,20,,+6 Laps,0.0,16,http://en.wikipedia.org/wiki/1954_Indianapolis_500
 1954,2,indianapolis,reece,1929-11-17,American,pankratz,7,,+6 Laps,0.0,17,http://en.wikipedia.org/wiki/1954_Indianapolis_500
-1954,2,indianapolis,elisian,1926-12-09,American,stevens,31,,+7 Laps,0.0,18,http://en.wikipedia.org/wiki/1954_Indianapolis_500
 1954,2,indianapolis,bob_scott,1928-10-04,American,stevens,31,,+7 Laps,0.0,18,http://en.wikipedia.org/wiki/1954_Indianapolis_500
+1954,2,indianapolis,elisian,1926-12-09,American,stevens,31,,+7 Laps,0.0,18,http://en.wikipedia.org/wiki/1954_Indianapolis_500
 1954,2,indianapolis,armi,1918-10-12,American,kurtis_kraft,33,,+7 Laps,0.0,19,http://en.wikipedia.org/wiki/1954_Indianapolis_500
 1954,3,spa,fangio,1911-06-24,Argentine,maserati,1,9882400.0,Finished,9.0,1,http://en.wikipedia.org/wiki/1954_Belgian_Grand_Prix
 1954,3,spa,trintignant,1917-10-30,French,ferrari,6,9906600.0,Finished,6.0,2,http://en.wikipedia.org/wiki/1954_Belgian_Grand_Prix
 1954,3,spa,moss,1929-09-17,British,maserati,9,,+1 Lap,4.0,3,http://en.wikipedia.org/wiki/1954_Belgian_Grand_Prix
-1954,3,spa,hawthorn,1929-04-10,British,ferrari,5,,+1 Lap,,4,http://en.wikipedia.org/wiki/1954_Belgian_Grand_Prix
 1954,3,spa,gonzalez,1922-10-05,Argentine,ferrari,5,,+1 Lap,,4,http://en.wikipedia.org/wiki/1954_Belgian_Grand_Prix
+1954,3,spa,hawthorn,1929-04-10,British,ferrari,5,,+1 Lap,,4,http://en.wikipedia.org/wiki/1954_Belgian_Grand_Prix
 1954,3,spa,andre_pilette,1918-10-06,Belgian,gordini,8,,+1 Lap,2.0,5,http://en.wikipedia.org/wiki/1954_Belgian_Grand_Prix
 1954,3,spa,bira,1914-07-15,Thai,maserati,13,,+1 Lap,0.0,6,http://en.wikipedia.org/wiki/1954_Belgian_Grand_Prix
 1954,3,spa,mantovani,1929-05-22,Italian,maserati,11,,+2 Laps,0.0,7,http://en.wikipedia.org/wiki/1954_Belgian_Grand_Prix
@@ -872,8 +872,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1954,5,silverstone,manzon,1917-04-12,French,ferrari,15,,Engine,0.0,27,http://en.wikipedia.org/wiki/1954_British_Grand_Prix
 1954,5,silverstone,whitehead,1914-11-12,British,cooper,24,,Oil leak,0.0,28,http://en.wikipedia.org/wiki/1954_British_Grand_Prix
 1954,6,nurburgring,fangio,1911-06-24,Argentine,mercedes,1,13545800.0,Finished,8.0,1,http://en.wikipedia.org/wiki/1954_German_Grand_Prix
-1954,6,nurburgring,gonzalez,1922-10-05,Argentine,ferrari,5,13642300.0,Finished,3.0,2,http://en.wikipedia.org/wiki/1954_German_Grand_Prix
 1954,6,nurburgring,hawthorn,1929-04-10,British,ferrari,5,13642300.0,Finished,3.0,2,http://en.wikipedia.org/wiki/1954_German_Grand_Prix
+1954,6,nurburgring,gonzalez,1922-10-05,Argentine,ferrari,5,13642300.0,Finished,3.0,2,http://en.wikipedia.org/wiki/1954_German_Grand_Prix
 1954,6,nurburgring,trintignant,1917-10-30,French,ferrari,7,13854400.0,Finished,4.0,3,http://en.wikipedia.org/wiki/1954_German_Grand_Prix
 1954,6,nurburgring,kling,1910-09-16,German,mercedes,23,13912300.0,Finished,4.0,4,http://en.wikipedia.org/wiki/1954_German_Grand_Prix
 1954,6,nurburgring,mantovani,1929-05-22,Italian,maserati,15,14076300.0,Finished,2.0,5,http://en.wikipedia.org/wiki/1954_German_Grand_Prix
@@ -914,8 +914,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1954,7,bremgarten,manzon,1917-04-12,French,ferrari,0,,Accident,0.0,17,http://en.wikipedia.org/wiki/1954_Swiss_Grand_Prix
 1954,8,monza,fangio,1911-06-24,Argentine,mercedes,1,10067900.0,Finished,8.0,1,http://en.wikipedia.org/wiki/1954_Italian_Grand_Prix
 1954,8,monza,hawthorn,1929-04-10,British,ferrari,7,,+1 Lap,6.0,2,http://en.wikipedia.org/wiki/1954_Italian_Grand_Prix
-1954,8,monza,gonzalez,1922-10-05,Argentine,ferrari,13,,+2 Laps,3.0,3,http://en.wikipedia.org/wiki/1954_Italian_Grand_Prix
 1954,8,monza,maglioli,1928-06-05,Italian,ferrari,13,,+2 Laps,2.0,3,http://en.wikipedia.org/wiki/1954_Italian_Grand_Prix
+1954,8,monza,gonzalez,1922-10-05,Argentine,ferrari,13,,+2 Laps,3.0,3,http://en.wikipedia.org/wiki/1954_Italian_Grand_Prix
 1954,8,monza,herrmann,1928-02-23,German,mercedes,8,,+3 Laps,3.0,4,http://en.wikipedia.org/wiki/1954_Italian_Grand_Prix
 1954,8,monza,trintignant,1917-10-30,French,ferrari,11,,+5 Laps,2.0,5,http://en.wikipedia.org/wiki/1954_Italian_Grand_Prix
 1954,8,monza,wacker,1918-07-10,American,gordini,18,,+5 Laps,0.0,6,http://en.wikipedia.org/wiki/1954_Italian_Grand_Prix
@@ -944,8 +944,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1954,9,pedralbes,wharton,1916-03-21,British,maserati,14,,+6 Laps,0.0,8,http://en.wikipedia.org/wiki/1954_Spanish_Grand_Prix
 1954,9,pedralbes,bira,1914-07-15,Thai,maserati,15,,+12 Laps,0.0,9,http://en.wikipedia.org/wiki/1954_Spanish_Grand_Prix
 1954,9,pedralbes,mantovani,1929-05-22,Italian,maserati,10,,Brakes,0.0,10,http://en.wikipedia.org/wiki/1954_Spanish_Grand_Prix
-1954,9,pedralbes,graffenried,1914-05-18,Swiss,maserati,21,,Engine,0.0,11,http://en.wikipedia.org/wiki/1954_Spanish_Grand_Prix
 1954,9,pedralbes,volonterio,1917-12-07,Swiss,maserati,21,,Engine,0.0,11,http://en.wikipedia.org/wiki/1954_Spanish_Grand_Prix
+1954,9,pedralbes,graffenried,1914-05-18,Swiss,maserati,21,,Engine,0.0,11,http://en.wikipedia.org/wiki/1954_Spanish_Grand_Prix
 1954,9,pedralbes,herrmann,1928-02-23,German,mercedes,9,,Injection,0.0,12,http://en.wikipedia.org/wiki/1954_Spanish_Grand_Prix
 1954,9,pedralbes,trintignant,1917-10-30,French,ferrari,8,,Gearbox,0.0,13,http://en.wikipedia.org/wiki/1954_Spanish_Grand_Prix
 1954,9,pedralbes,pollet,1922-07-02,French,gordini,16,,Engine,0.0,14,http://en.wikipedia.org/wiki/1954_Spanish_Grand_Prix
@@ -959,30 +959,30 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1954,9,pedralbes,collins,1931-11-06,British,vanwall,0,,Accident,0.0,22,http://en.wikipedia.org/wiki/1954_Spanish_Grand_Prix
 1955,1,galvez,fangio,1911-06-24,Argentine,mercedes,3,10838600.0,Finished,9.0,1,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,farina,1906-10-30,Italian,ferrari,1,10928200.0,Finished,2.0,2,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
-1955,1,galvez,trintignant,1917-10-30,French,ferrari,1,10928200.0,Finished,2.0,2,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,gonzalez,1922-10-05,Argentine,ferrari,1,10928200.0,Finished,2.0,2,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
+1955,1,galvez,trintignant,1917-10-30,French,ferrari,1,10928200.0,Finished,2.0,2,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
+1955,1,galvez,farina,1906-10-30,Italian,ferrari,5,,+2 Laps,,3,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,maglioli,1928-06-05,Italian,ferrari,5,,+2 Laps,,3,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,trintignant,1917-10-30,French,ferrari,5,,+2 Laps,,3,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
-1955,1,galvez,farina,1906-10-30,Italian,ferrari,5,,+2 Laps,,3,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,kling,1910-09-16,German,mercedes,10,,+2 Laps,1.0,4,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,moss,1929-09-17,British,mercedes,10,,+2 Laps,1.0,4,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,herrmann,1928-02-23,German,mercedes,10,,+2 Laps,1.0,4,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,mieres,1924-12-03,Argentine,maserati,16,,+5 Laps,2.0,5,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,schell,1921-06-29,American,maserati,7,,+8 Laps,0.0,6,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,behra,1921-02-16,French,maserati,7,,+8 Laps,0.0,6,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
-1955,1,galvez,mantovani,1929-05-22,Italian,maserati,18,,+13 Laps,0.0,7,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,schell,1921-06-29,American,maserati,18,,+13 Laps,0.0,7,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,musso,1924-07-28,Italian,maserati,18,,+13 Laps,0.0,7,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
+1955,1,galvez,mantovani,1929-05-22,Italian,maserati,18,,+13 Laps,0.0,7,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,behra,1921-02-16,French,maserati,19,,Engine,0.0,8,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,musso,1924-07-28,Italian,maserati,19,,Engine,0.0,8,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,mantovani,1929-05-22,Italian,maserati,19,,Engine,0.0,8,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
+1955,1,galvez,bucci,1920-09-04,Argentine,maserati,20,,Fuel pressure,0.0,9,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,schell,1921-06-29,American,maserati,20,,Fuel pressure,0.0,9,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,menditeguy,1914-08-10,Argentine,maserati,20,,Fuel pressure,0.0,9,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
-1955,1,galvez,bucci,1920-09-04,Argentine,maserati,20,,Fuel pressure,0.0,9,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,iglesias,1922-02-22,Argentine,gordini,17,,Transmission,0.0,10,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,trintignant,1917-10-30,French,ferrari,14,,Engine,0.0,11,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
-1955,1,galvez,castellotti,1930-10-10,Italian,lancia,12,,Accident,0.0,12,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,villoresi,1909-05-16,Italian,lancia,12,,Accident,0.0,12,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
+1955,1,galvez,castellotti,1930-10-10,Italian,lancia,12,,Accident,0.0,12,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,moss,1929-09-17,British,mercedes,8,,Fuel system,0.0,13,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,uria,1924-07-11,Uruguayan,maserati,21,,Out of fuel,0.0,14,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,ascari,1918-07-13,Italian,lancia,2,,Accident,0.0,15,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
@@ -995,8 +995,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1955,2,monaco,villoresi,1909-05-16,Italian,lancia,7,,+1 Lap,2.0,5,http://en.wikipedia.org/wiki/1955_Monaco_Grand_Prix
 1955,2,monaco,chiron,1899-08-03,Monegasque,lancia,19,,+5 Laps,0.0,6,http://en.wikipedia.org/wiki/1955_Monaco_Grand_Prix
 1955,2,monaco,pollet,1922-07-02,French,gordini,20,,+9 Laps,0.0,7,http://en.wikipedia.org/wiki/1955_Monaco_Grand_Prix
-1955,2,monaco,frere,1917-01-30,Belgian,ferrari,15,,+14 Laps,0.0,8,http://en.wikipedia.org/wiki/1955_Monaco_Grand_Prix
 1955,2,monaco,taruffi,1906-10-12,Italian,ferrari,15,,+14 Laps,0.0,8,http://en.wikipedia.org/wiki/1955_Monaco_Grand_Prix
+1955,2,monaco,frere,1917-01-30,Belgian,ferrari,15,,+14 Laps,0.0,8,http://en.wikipedia.org/wiki/1955_Monaco_Grand_Prix
 1955,2,monaco,moss,1929-09-17,British,mercedes,3,,+19 Laps,0.0,9,http://en.wikipedia.org/wiki/1955_Monaco_Grand_Prix
 1955,2,monaco,perdisa,1932-10-21,Italian,maserati,11,,Spun off,0.0,10,http://en.wikipedia.org/wiki/1955_Monaco_Grand_Prix
 1955,2,monaco,behra,1921-02-16,French,maserati,11,,Spun off,0.0,10,http://en.wikipedia.org/wiki/1955_Monaco_Grand_Prix
@@ -1014,8 +1014,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1955,2,monaco,whiteaway,1928-11-01,British,hwm,0,,Did not qualify,0.0,22,http://en.wikipedia.org/wiki/1955_Monaco_Grand_Prix
 1955,2,monaco,herrmann,1928-02-23,German,mercedes,0,,Did not qualify,0.0,23,http://en.wikipedia.org/wiki/1955_Monaco_Grand_Prix
 1955,3,indianapolis,sweikert,1926-05-20,American,kurtis_kraft,14,14039530.0,Finished,8.0,1,http://en.wikipedia.org/wiki/1955_Indianapolis_500
-1955,3,indianapolis,bettenhausen,1916-09-12,American,kurtis_kraft,2,14203090.0,Finished,3.0,2,http://en.wikipedia.org/wiki/1955_Indianapolis_500
 1955,3,indianapolis,paul_russo,1914-04-10,American,kurtis_kraft,2,14203090.0,Finished,3.0,2,http://en.wikipedia.org/wiki/1955_Indianapolis_500
+1955,3,indianapolis,bettenhausen,1916-09-12,American,kurtis_kraft,2,14203090.0,Finished,3.0,2,http://en.wikipedia.org/wiki/1955_Indianapolis_500
 1955,3,indianapolis,davies,1929-08-08,American,kurtis_kraft,10,14251890.0,Finished,4.0,3,http://en.wikipedia.org/wiki/1955_Indianapolis_500
 1955,3,indianapolis,thomson,1922-04-09,American,kuzma,33,14258440.0,Finished,3.0,4,http://en.wikipedia.org/wiki/1955_Indianapolis_500
 1955,3,indianapolis,homeier,1918-08-31,American,kurtis_kraft,7,14356700.0,Finished,1.0,5,http://en.wikipedia.org/wiki/1955_Indianapolis_500
@@ -1047,8 +1047,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1955,4,spa,moss,1929-09-17,British,mercedes,3,9577100.0,Finished,6.0,2,http://en.wikipedia.org/wiki/1955_Belgian_Grand_Prix
 1955,4,spa,farina,1906-10-30,Italian,ferrari,4,9669500.0,Finished,4.0,3,http://en.wikipedia.org/wiki/1955_Belgian_Grand_Prix
 1955,4,spa,frere,1917-01-30,Belgian,ferrari,8,9774500.0,Finished,3.0,4,http://en.wikipedia.org/wiki/1955_Belgian_Grand_Prix
-1955,4,spa,mieres,1924-12-03,Argentine,maserati,13,,+1 Lap,1.0,5,http://en.wikipedia.org/wiki/1955_Belgian_Grand_Prix
 1955,4,spa,behra,1921-02-16,French,maserati,13,,+1 Lap,1.0,5,http://en.wikipedia.org/wiki/1955_Belgian_Grand_Prix
+1955,4,spa,mieres,1924-12-03,Argentine,maserati,13,,+1 Lap,1.0,5,http://en.wikipedia.org/wiki/1955_Belgian_Grand_Prix
 1955,4,spa,trintignant,1917-10-30,French,ferrari,10,,+1 Lap,0.0,6,http://en.wikipedia.org/wiki/1955_Belgian_Grand_Prix
 1955,4,spa,musso,1924-07-28,Italian,maserati,7,,+2 Laps,0.0,7,http://en.wikipedia.org/wiki/1955_Belgian_Grand_Prix
 1955,4,spa,perdisa,1932-10-21,Italian,maserati,11,,+3 Laps,0.0,8,http://en.wikipedia.org/wiki/1955_Belgian_Grand_Prix
@@ -1081,12 +1081,12 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1955,6,aintree,kling,1910-09-16,German,mercedes,4,11313000.0,Finished,4.0,3,http://en.wikipedia.org/wiki/1955_British_Grand_Prix
 1955,6,aintree,taruffi,1906-10-12,Italian,mercedes,5,,+1 Lap,3.0,4,http://en.wikipedia.org/wiki/1955_British_Grand_Prix
 1955,6,aintree,musso,1924-07-28,Italian,maserati,9,,+1 Lap,2.0,5,http://en.wikipedia.org/wiki/1955_British_Grand_Prix
-1955,6,aintree,castellotti,1930-10-10,Italian,ferrari,12,,+3 Laps,0.0,6,http://en.wikipedia.org/wiki/1955_British_Grand_Prix
 1955,6,aintree,hawthorn,1929-04-10,British,ferrari,12,,+3 Laps,0.0,6,http://en.wikipedia.org/wiki/1955_British_Grand_Prix
+1955,6,aintree,castellotti,1930-10-10,Italian,ferrari,12,,+3 Laps,0.0,6,http://en.wikipedia.org/wiki/1955_British_Grand_Prix
 1955,6,aintree,sparken,1930-06-16,French,gordini,23,,+9 Laps,0.0,7,http://en.wikipedia.org/wiki/1955_British_Grand_Prix
 1955,6,aintree,macklin,1919-09-02,British,maserati,16,,+11 Laps,0.0,8,http://en.wikipedia.org/wiki/1955_British_Grand_Prix
-1955,6,aintree,schell,1921-06-29,American,vanwall,15,,+18 Laps,0.0,9,http://en.wikipedia.org/wiki/1955_British_Grand_Prix
 1955,6,aintree,wharton,1916-03-21,British,vanwall,15,,+18 Laps,0.0,9,http://en.wikipedia.org/wiki/1955_British_Grand_Prix
+1955,6,aintree,schell,1921-06-29,American,vanwall,15,,+18 Laps,0.0,9,http://en.wikipedia.org/wiki/1955_British_Grand_Prix
 1955,6,aintree,trintignant,1917-10-30,French,ferrari,13,,Overheating,0.0,10,http://en.wikipedia.org/wiki/1955_British_Grand_Prix
 1955,6,aintree,mieres,1924-12-03,Argentine,maserati,6,,Engine,0.0,11,http://en.wikipedia.org/wiki/1955_British_Grand_Prix
 1955,6,aintree,jack_brabham,1926-04-02,Australian,cooper,25,,Engine,0.0,12,http://en.wikipedia.org/wiki/1955_British_Grand_Prix
@@ -1127,12 +1127,12 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1955,7,monza,farina,1906-10-30,Italian,ferrari,5,,Withdrew,0.0,21,http://en.wikipedia.org/wiki/1955_Italian_Grand_Prix
 1955,7,monza,villoresi,1909-05-16,Italian,ferrari,8,,Withdrew,0.0,22,http://en.wikipedia.org/wiki/1955_Italian_Grand_Prix
 1955,7,monza,piotti,1913-10-27,Italian,arzani-volpini,0,,Withdrew,0.0,23,http://en.wikipedia.org/wiki/1955_Italian_Grand_Prix
-1956,1,galvez,musso,1924-07-28,Italian,ferrari,3,10803700.0,Finished,5.0,1,http://en.wikipedia.org/wiki/1956_Argentine_Grand_Prix
 1956,1,galvez,fangio,1911-06-24,Argentine,ferrari,3,10803700.0,Finished,5.0,1,http://en.wikipedia.org/wiki/1956_Argentine_Grand_Prix
+1956,1,galvez,musso,1924-07-28,Italian,ferrari,3,10803700.0,Finished,5.0,1,http://en.wikipedia.org/wiki/1956_Argentine_Grand_Prix
 1956,1,galvez,behra,1921-02-16,French,maserati,4,10828100.0,Finished,6.0,2,http://en.wikipedia.org/wiki/1956_Argentine_Grand_Prix
 1956,1,galvez,hawthorn,1929-04-10,British,maserati,8,,+2 Laps,4.0,3,http://en.wikipedia.org/wiki/1956_Argentine_Grand_Prix
-1956,1,galvez,gerini,1928-08-10,Italian,maserati,11,,+6 Laps,,4,http://en.wikipedia.org/wiki/1956_Argentine_Grand_Prix
 1956,1,galvez,landi,1907-07-14,Brazilian,maserati,11,,+6 Laps,,4,http://en.wikipedia.org/wiki/1956_Argentine_Grand_Prix
+1956,1,galvez,gerini,1928-08-10,Italian,maserati,11,,+6 Laps,,4,http://en.wikipedia.org/wiki/1956_Argentine_Grand_Prix
 1956,1,galvez,gendebien,1924-01-12,Belgian,ferrari,10,,+7 Laps,2.0,5,http://en.wikipedia.org/wiki/1956_Argentine_Grand_Prix
 1956,1,galvez,oscar_gonzalez,1923-11-10,Uruguayan,maserati,13,,+10 Laps,0.0,6,http://en.wikipedia.org/wiki/1956_Argentine_Grand_Prix
 1956,1,galvez,uria,1924-07-11,Uruguayan,maserati,13,,+10 Laps,0.0,6,http://en.wikipedia.org/wiki/1956_Argentine_Grand_Prix
@@ -1233,8 +1233,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1956,5,reims,schell,1921-06-29,American,vanwall,4,,Engine,0.0,19,http://en.wikipedia.org/wiki/1956_French_Grand_Prix
 1956,5,reims,chapman,1928-05-19,British,vanwall,5,,Accident,0.0,20,http://en.wikipedia.org/wiki/1956_French_Grand_Prix
 1956,6,silverstone,fangio,1911-06-24,Argentine,ferrari,2,10787000.0,Finished,8.0,1,http://en.wikipedia.org/wiki/1956_British_Grand_Prix
-1956,6,silverstone,collins,1931-11-06,British,ferrari,12,,+1 Lap,3.0,2,http://en.wikipedia.org/wiki/1956_British_Grand_Prix
 1956,6,silverstone,portago,1928-10-11,Spanish,ferrari,12,,+1 Lap,3.0,2,http://en.wikipedia.org/wiki/1956_British_Grand_Prix
+1956,6,silverstone,collins,1931-11-06,British,ferrari,12,,+1 Lap,3.0,2,http://en.wikipedia.org/wiki/1956_British_Grand_Prix
 1956,6,silverstone,behra,1921-02-16,French,maserati,13,,+2 Laps,4.0,3,http://en.wikipedia.org/wiki/1956_British_Grand_Prix
 1956,6,silverstone,fairman,1913-03-15,British,connaught,21,,+3 Laps,3.0,4,http://en.wikipedia.org/wiki/1956_British_Grand_Prix
 1956,6,silverstone,gould,1918-09-20,British,maserati,14,,+4 Laps,2.0,5,http://en.wikipedia.org/wiki/1956_British_Grand_Prix
@@ -1242,8 +1242,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1956,6,silverstone,perdisa,1932-10-21,Italian,maserati,15,,+6 Laps,0.0,7,http://en.wikipedia.org/wiki/1956_British_Grand_Prix
 1956,6,silverstone,godia,1921-03-21,Spanish,maserati,25,,+7 Laps,0.0,8,http://en.wikipedia.org/wiki/1956_British_Grand_Prix
 1956,6,silverstone,manzon,1917-04-12,French,gordini,18,,+7 Laps,0.0,9,http://en.wikipedia.org/wiki/1956_British_Grand_Prix
-1956,6,silverstone,portago,1928-10-11,Spanish,ferrari,8,,+9 Laps,0.0,10,http://en.wikipedia.org/wiki/1956_British_Grand_Prix
 1956,6,silverstone,castellotti,1930-10-10,Italian,ferrari,8,,+9 Laps,0.0,10,http://en.wikipedia.org/wiki/1956_British_Grand_Prix
+1956,6,silverstone,portago,1928-10-11,Spanish,ferrari,8,,+9 Laps,0.0,10,http://en.wikipedia.org/wiki/1956_British_Grand_Prix
 1956,6,silverstone,gerard,1914-01-19,British,cooper,22,,+13 Laps,0.0,11,http://en.wikipedia.org/wiki/1956_British_Grand_Prix
 1956,6,silverstone,moss,1929-09-17,British,maserati,1,,Axle,1.0,12,http://en.wikipedia.org/wiki/1956_British_Grand_Prix
 1956,6,silverstone,schell,1921-06-29,American,vanwall,5,,Fuel system,0.0,13,http://en.wikipedia.org/wiki/1956_British_Grand_Prix
@@ -1285,8 +1285,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1956,7,nurburgring,andre_pilette,1918-10-06,Belgian,gordini,0,,Withdrew,0.0,21,http://en.wikipedia.org/wiki/1956_German_Grand_Prix
 1956,7,nurburgring,piotti,1913-10-27,Italian,maserati,0,,Withdrew,0.0,22,http://en.wikipedia.org/wiki/1956_German_Grand_Prix
 1956,8,monza,moss,1929-09-17,British,maserati,6,8621300.0,Finished,9.0,1,http://en.wikipedia.org/wiki/1956_Italian_Grand_Prix
-1956,8,monza,collins,1931-11-06,British,ferrari,7,8627000.0,Finished,3.0,2,http://en.wikipedia.org/wiki/1956_Italian_Grand_Prix
 1956,8,monza,fangio,1911-06-24,Argentine,ferrari,7,8627000.0,Finished,3.0,2,http://en.wikipedia.org/wiki/1956_Italian_Grand_Prix
+1956,8,monza,collins,1931-11-06,British,ferrari,7,8627000.0,Finished,3.0,2,http://en.wikipedia.org/wiki/1956_Italian_Grand_Prix
 1956,8,monza,flockhart,1923-06-16,British,connaught,26,,+1 Lap,4.0,3,http://en.wikipedia.org/wiki/1956_Italian_Grand_Prix
 1956,8,monza,godia,1921-03-21,Spanish,maserati,18,,+1 Lap,3.0,4,http://en.wikipedia.org/wiki/1956_Italian_Grand_Prix
 1956,8,monza,fairman,1913-03-15,British,connaught,16,,+3 Laps,2.0,5,http://en.wikipedia.org/wiki/1956_Italian_Grand_Prix
@@ -1317,8 +1317,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1957,1,galvez,behra,1921-02-16,French,maserati,3,10874200.0,Finished,6.0,2,http://en.wikipedia.org/wiki/1957_Argentine_Grand_Prix
 1957,1,galvez,menditeguy,1914-08-10,Argentine,maserati,8,,+1 Lap,4.0,3,http://en.wikipedia.org/wiki/1957_Argentine_Grand_Prix
 1957,1,galvez,schell,1921-06-29,American,maserati,9,,+2 Laps,3.0,4,http://en.wikipedia.org/wiki/1957_Argentine_Grand_Prix
-1957,1,galvez,gonzalez,1922-10-05,Argentine,ferrari,10,,+2 Laps,1.0,5,http://en.wikipedia.org/wiki/1957_Argentine_Grand_Prix
 1957,1,galvez,portago,1928-10-11,Spanish,ferrari,10,,+2 Laps,1.0,5,http://en.wikipedia.org/wiki/1957_Argentine_Grand_Prix
+1957,1,galvez,gonzalez,1922-10-05,Argentine,ferrari,10,,+2 Laps,1.0,5,http://en.wikipedia.org/wiki/1957_Argentine_Grand_Prix
 1957,1,galvez,collins,1931-11-06,British,ferrari,11,,+2 Laps,0.0,6,http://en.wikipedia.org/wiki/1957_Argentine_Grand_Prix
 1957,1,galvez,perdisa,1932-10-21,Italian,ferrari,11,,+2 Laps,0.0,6,http://en.wikipedia.org/wiki/1957_Argentine_Grand_Prix
 1957,1,galvez,trips,1928-05-04,German,ferrari,11,,+2 Laps,0.0,6,http://en.wikipedia.org/wiki/1957_Argentine_Grand_Prix
@@ -1336,8 +1336,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1957,2,monaco,lewis-evans,1930-04-20,British,connaught,13,,+3 Laps,3.0,4,http://en.wikipedia.org/wiki/1957_Monaco_Grand_Prix
 1957,2,monaco,trintignant,1917-10-30,French,ferrari,6,,+5 Laps,2.0,5,http://en.wikipedia.org/wiki/1957_Monaco_Grand_Prix
 1957,2,monaco,jack_brabham,1926-04-02,Australian,cooper,15,,+5 Laps,0.0,6,http://en.wikipedia.org/wiki/1957_Monaco_Grand_Prix
-1957,2,monaco,hawthorn,1929-04-10,British,ferrari,9,,Engine,0.0,7,http://en.wikipedia.org/wiki/1957_Monaco_Grand_Prix
 1957,2,monaco,trips,1928-05-04,German,ferrari,9,,Engine,0.0,7,http://en.wikipedia.org/wiki/1957_Monaco_Grand_Prix
+1957,2,monaco,hawthorn,1929-04-10,British,ferrari,9,,Engine,0.0,7,http://en.wikipedia.org/wiki/1957_Monaco_Grand_Prix
 1957,2,monaco,schell,1921-06-29,American,maserati,14,,Oil leak,0.0,8,http://en.wikipedia.org/wiki/1957_Monaco_Grand_Prix
 1957,2,monaco,scarlatti,1921-10-02,Italian,maserati,14,,Oil leak,0.0,8,http://en.wikipedia.org/wiki/1957_Monaco_Grand_Prix
 1957,2,monaco,flockhart,1923-06-16,British,brm,11,,Engine,0.0,9,http://en.wikipedia.org/wiki/1957_Monaco_Grand_Prix
@@ -1389,8 +1389,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1957,4,essarts,hawthorn,1929-04-10,British,ferrari,7,,+1 Lap,3.0,4,http://en.wikipedia.org/wiki/1957_French_Grand_Prix
 1957,4,essarts,schell,1921-06-29,American,maserati,4,,+7 Laps,2.0,5,http://en.wikipedia.org/wiki/1957_French_Grand_Prix
 1957,4,essarts,behra,1921-02-16,French,maserati,2,,+8 Laps,0.0,6,http://en.wikipedia.org/wiki/1957_French_Grand_Prix
-1957,4,essarts,jack_brabham,1926-04-02,Australian,cooper,15,,+9 Laps,0.0,7,http://en.wikipedia.org/wiki/1957_French_Grand_Prix
 1957,4,essarts,macdowel,1932-09-13,British,cooper,15,,+9 Laps,0.0,7,http://en.wikipedia.org/wiki/1957_French_Grand_Prix
+1957,4,essarts,jack_brabham,1926-04-02,Australian,cooper,15,,+9 Laps,0.0,7,http://en.wikipedia.org/wiki/1957_French_Grand_Prix
 1957,4,essarts,menditeguy,1914-08-10,Argentine,maserati,9,,Engine,0.0,8,http://en.wikipedia.org/wiki/1957_French_Grand_Prix
 1957,4,essarts,lewis-evans,1930-04-20,British,vanwall,10,,Steering,0.0,9,http://en.wikipedia.org/wiki/1957_French_Grand_Prix
 1957,4,essarts,salvadori,1922-05-12,British,vanwall,6,,Engine,0.0,10,http://en.wikipedia.org/wiki/1957_French_Grand_Prix
@@ -1403,8 +1403,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1957,5,aintree,brooks,1932-02-25,British,vanwall,3,11197800.0,Finished,4.0,1,http://en.wikipedia.org/wiki/1957_British_Grand_Prix
 1957,5,aintree,musso,1924-07-28,Italian,ferrari,10,11223400.0,Finished,6.0,2,http://en.wikipedia.org/wiki/1957_British_Grand_Prix
 1957,5,aintree,hawthorn,1929-04-10,British,ferrari,5,11240600.0,Finished,4.0,3,http://en.wikipedia.org/wiki/1957_British_Grand_Prix
-1957,5,aintree,trintignant,1917-10-30,French,ferrari,9,,+2 Laps,3.0,4,http://en.wikipedia.org/wiki/1957_British_Grand_Prix
 1957,5,aintree,collins,1931-11-06,British,ferrari,9,,+2 Laps,0.0,4,http://en.wikipedia.org/wiki/1957_British_Grand_Prix
+1957,5,aintree,trintignant,1917-10-30,French,ferrari,9,,+2 Laps,3.0,4,http://en.wikipedia.org/wiki/1957_British_Grand_Prix
 1957,5,aintree,salvadori,1922-05-12,British,cooper,15,,+5 Laps,2.0,5,http://en.wikipedia.org/wiki/1957_British_Grand_Prix
 1957,5,aintree,gerard,1914-01-19,British,cooper,18,,+8 Laps,0.0,6,http://en.wikipedia.org/wiki/1957_British_Grand_Prix
 1957,5,aintree,lewis-evans,1930-04-20,British,vanwall,6,,+8 Laps,0.0,7,http://en.wikipedia.org/wiki/1957_British_Grand_Prix
@@ -1465,15 +1465,15 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1957,8,monza,fangio,1911-06-24,Argentine,maserati,4,9345100.0,Finished,6.0,2,http://en.wikipedia.org/wiki/1957_Italian_Grand_Prix
 1957,8,monza,trips,1928-05-04,German,ferrari,8,,+2 Laps,4.0,3,http://en.wikipedia.org/wiki/1957_Italian_Grand_Prix
 1957,8,monza,gregory,1932-02-29,American,maserati,11,,+3 Laps,3.0,4,http://en.wikipedia.org/wiki/1957_Italian_Grand_Prix
-1957,8,monza,schell,1921-06-29,American,maserati,12,,+3 Laps,1.0,5,http://en.wikipedia.org/wiki/1957_Italian_Grand_Prix
 1957,8,monza,scarlatti,1921-10-02,Italian,maserati,12,,+3 Laps,1.0,5,http://en.wikipedia.org/wiki/1957_Italian_Grand_Prix
+1957,8,monza,schell,1921-06-29,American,maserati,12,,+3 Laps,1.0,5,http://en.wikipedia.org/wiki/1957_Italian_Grand_Prix
 1957,8,monza,hawthorn,1929-04-10,British,ferrari,10,,+4 Laps,0.0,6,http://en.wikipedia.org/wiki/1957_Italian_Grand_Prix
 1957,8,monza,brooks,1932-02-25,British,vanwall,3,,+5 Laps,1.0,7,http://en.wikipedia.org/wiki/1957_Italian_Grand_Prix
 1957,8,monza,musso,1924-07-28,Italian,ferrari,9,,+5 Laps,0.0,8,http://en.wikipedia.org/wiki/1957_Italian_Grand_Prix
 1957,8,monza,godia,1921-03-21,Spanish,maserati,15,,+6 Laps,0.0,9,http://en.wikipedia.org/wiki/1957_Italian_Grand_Prix
 1957,8,monza,gould,1918-09-20,British,maserati,18,,+9 Laps,0.0,10,http://en.wikipedia.org/wiki/1957_Italian_Grand_Prix
-1957,8,monza,simon,1920-01-05,French,maserati,16,,+15 Laps,0.0,11,http://en.wikipedia.org/wiki/1957_Italian_Grand_Prix
 1957,8,monza,volonterio,1917-12-07,Swiss,maserati,16,,+15 Laps,0.0,11,http://en.wikipedia.org/wiki/1957_Italian_Grand_Prix
+1957,8,monza,simon,1920-01-05,French,maserati,16,,+15 Laps,0.0,11,http://en.wikipedia.org/wiki/1957_Italian_Grand_Prix
 1957,8,monza,collins,1931-11-06,British,ferrari,7,,Engine,0.0,12,http://en.wikipedia.org/wiki/1957_Italian_Grand_Prix
 1957,8,monza,lewis-evans,1930-04-20,British,vanwall,1,,Engine,0.0,13,http://en.wikipedia.org/wiki/1957_Italian_Grand_Prix
 1957,8,monza,behra,1921-02-16,French,maserati,5,,Overheating,0.0,14,http://en.wikipedia.org/wiki/1957_Italian_Grand_Prix
@@ -1601,8 +1601,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1958,6,reims,salvadori,1922-05-12,British,cooper,14,,+13 Laps,0.0,11,http://en.wikipedia.org/wiki/1958_French_Grand_Prix
 1958,6,reims,schell,1921-06-29,American,brm,3,,Overheating,0.0,12,http://en.wikipedia.org/wiki/1958_French_Grand_Prix
 1958,6,reims,behra,1921-02-16,French,brm,9,,Fuel pump,0.0,13,http://en.wikipedia.org/wiki/1958_French_Grand_Prix
-1958,6,reims,brooks,1932-02-25,British,vanwall,10,,Engine,0.0,14,http://en.wikipedia.org/wiki/1958_French_Grand_Prix
 1958,6,reims,lewis-evans,1930-04-20,British,vanwall,10,,Engine,0.0,14,http://en.wikipedia.org/wiki/1958_French_Grand_Prix
+1958,6,reims,brooks,1932-02-25,British,vanwall,10,,Engine,0.0,14,http://en.wikipedia.org/wiki/1958_French_Grand_Prix
 1958,6,reims,hill,1929-02-15,British,team_lotus,19,,Overheating,0.0,15,http://en.wikipedia.org/wiki/1958_French_Grand_Prix
 1958,6,reims,godia,1921-03-21,Spanish,maserati,11,,Accident,0.0,16,http://en.wikipedia.org/wiki/1958_French_Grand_Prix
 1958,6,reims,trintignant,1917-10-30,French,brm,7,,Fuel pump,0.0,17,http://en.wikipedia.org/wiki/1958_French_Grand_Prix
@@ -2242,8 +2242,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1961,5,aintree,beaufort,1934-04-10,Dutch,porsche,18,,+6 Laps,0.0,16,http://en.wikipedia.org/wiki/1961_British_Grand_Prix
 1961,5,aintree,seidel,1926-07-04,German,lotus-climax,22,,+17 Laps,0.0,17,http://en.wikipedia.org/wiki/1961_British_Grand_Prix
 1961,5,aintree,clark,1936-03-04,British,lotus-climax,8,,Oil leak,0.0,18,http://en.wikipedia.org/wiki/1961_British_Grand_Prix
-1961,5,aintree,moss,1929-09-17,British,ferguson,20,,Disqualified,0.0,19,http://en.wikipedia.org/wiki/1961_British_Grand_Prix
 1961,5,aintree,fairman,1913-03-15,British,ferguson,20,,Disqualified,0.0,19,http://en.wikipedia.org/wiki/1961_British_Grand_Prix
+1961,5,aintree,moss,1929-09-17,British,ferguson,20,,Disqualified,0.0,19,http://en.wikipedia.org/wiki/1961_British_Grand_Prix
 1961,5,aintree,bianchi,1934-11-10,Belgian,lotus-climax,30,,Gearbox,0.0,20,http://en.wikipedia.org/wiki/1961_British_Grand_Prix
 1961,5,aintree,moss,1929-09-17,British,lotus-climax,5,,Brakes,0.0,21,http://en.wikipedia.org/wiki/1961_British_Grand_Prix
 1961,5,aintree,hill,1929-02-15,British,brm,11,,Engine,0.0,22,http://en.wikipedia.org/wiki/1961_British_Grand_Prix
@@ -2324,8 +2324,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1961,8,watkins_glen,penske,1937-02-20,American,cooper-climax,16,,+4 Laps,0.0,8,http://en.wikipedia.org/wiki/1961_United_States_Grand_Prix
 1961,8,watkins_glen,ryan,1940-06-10,Canadian,lotus-climax,13,,+4 Laps,0.0,9,http://en.wikipedia.org/wiki/1961_United_States_Grand_Prix
 1961,8,watkins_glen,sharp,1928-01-01,American,cooper-climax,17,,+7 Laps,0.0,10,http://en.wikipedia.org/wiki/1961_United_States_Grand_Prix
-1961,8,watkins_glen,gendebien,1924-01-12,Belgian,lotus-climax,15,,+8 Laps,0.0,11,http://en.wikipedia.org/wiki/1961_United_States_Grand_Prix
 1961,8,watkins_glen,gregory,1932-02-29,American,lotus-climax,15,,+8 Laps,0.0,11,http://en.wikipedia.org/wiki/1961_United_States_Grand_Prix
+1961,8,watkins_glen,gendebien,1924-01-12,Belgian,lotus-climax,15,,+8 Laps,0.0,11,http://en.wikipedia.org/wiki/1961_United_States_Grand_Prix
 1961,8,watkins_glen,salvadori,1922-05-12,British,cooper-climax,12,,Engine,0.0,12,http://en.wikipedia.org/wiki/1961_United_States_Grand_Prix
 1961,8,watkins_glen,hall,1935-07-23,American,lotus-climax,18,,Fuel leak,0.0,13,http://en.wikipedia.org/wiki/1961_United_States_Grand_Prix
 1961,8,watkins_glen,ruby,1928-01-12,American,lotus-climax,19,,Magneto,0.0,14,http://en.wikipedia.org/wiki/1961_United_States_Grand_Prix
