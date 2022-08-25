@@ -23,11 +23,12 @@ Used the Beautiful Soup and Selenium libraries to scrape the 7 dataframes used f
 ### Feature Correlations
 ![](Images/correlation_matrix.png)
 ### Circuits where qualifying matters the most
+These are the 2021 circuits ranked by the correlation of final race position and qualifying position. We can see that even in the lower end of the list, qualifying position has a very significant correlaction with the race result. We can expect a high feature importance.
 ![](Images/podium-grid_correlation.png)
 ### Historic performance of 2021 constructors
 ![](Images/all_time_race_pos_by_constructor_2021.png)
 ### Average race finish position (wet and dry)
-
+![](Images/overall_driver_performance.png)
 ### Performance delta of wet conditions
 ![](Images/performance_delta_of_rain.png)
 ## 4. [Modeling](https://github.com/felipesanze/F1_Predictor/blob/main/4_Modeling.ipynb)
