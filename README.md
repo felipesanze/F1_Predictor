@@ -52,7 +52,7 @@ Model score:
 * Weather_wet turned out to be way less important than expected.
 ![](Images/feature_importance_mdi.png)
 ### Results
-The model is able to predict the race winner with a `63%` presicion score. That translates into right above half the races correctly predicted. I do not recommend to use this model for betting purposes beyond the 2021 season. F1 regulations have suffered significant changes that make it unlikely that this model perform well from 2022 onwards. I will revisit it after the 2022 season has finished to evaluate that possibility.
+The model is able to predict the race winner with a `63%` presicion score. That translates into right above half the races correctly predicted. I do not recommend to use this model for betting purposes beyond the 2021 season. F1 regulations have suffered significant changes that make it unlikely that this model perform well from 2022 onwards. I will revisit it after the 2022 season ends to evaluate that possibility.
 
 ## 5. Next Steps
 *  Put it all into production: create an automated web interface where, right after qualifying on Saturday, the user presses a button, the fresh data gets scraped and ran through the model. The user will get an expected winner for the race of that weekend. Just for the fun of it...
