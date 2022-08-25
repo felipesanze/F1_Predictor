@@ -6,11 +6,11 @@
 * [**Modeling:**](https://github.com/felipesanze/F1_Predictor/blob/main/README.md#4-modeling) built a tailor-made scoring function that evalueates predictions race after race and calculates a season-wide precision score. Used that score to compare and tune an SVM, a Random Forest, an XGBoost, and a Logistic Regression.
 * **Results:** the model is able to predict the race winner with a 63% presicion score. That translates into right above half the races correctly predicted.
 
-## 1. Data Collection
+## 1. [Data Collection](https://github.com/felipesanze/F1_Predictor/blob/main/1_Collection.ipynb)
 Data was scraped from the [Formula 1 website](https://www.formula1.com/) and the [Ergast F1](https://ergast.com/mrd/) API. Scraped seasons from 1950 to 2021.   
 Used the Beautiful Soup and Selenium libraries to scrape the 7 dataframes used for this project: `Races`, `Rounds`, `Results`, `Driver Championships`, `Constructors Championships`, `Qualifying`, and `Weather`. They can all be found in the data folder.
 
-## 2. Data Preprocessing
+## 2. [Data Preprocessing](https://github.com/felipesanze/F1_Predictor/blob/main/2_Preprocessing.ipynb)
 *  Merged all DataFrames and dropped visibly redundant colums.
 *  Replaced missing values of `qualifying_time' by the average qualifying time for that team for that circuit. Missing values for points and position variables are assumed to be DNFs so they are replaced by 0.
 ### Feature Engineering
@@ -19,7 +19,7 @@ Used the Beautiful Soup and Selenium libraries to scrape the 7 dataframes used f
 *  `reg_era`: I bucketized the `season` variable into the different regulation eras in F1 history, as regulation changes can signify turning points for teams or drivers.
 *  `weather_wet`: wet conditions can have a significant impact in race results.
 
-## 3. EDA
+## 3. [EDA](https://github.com/felipesanze/F1_Predictor/blob/main/3_EDA.ipynb)
 ### Feature Correlations
 
 ### Circuits where qualifying matters the most
