@@ -30,7 +30,7 @@ Used the Beautiful Soup and Selenium libraries to scrape the 7 dataframes used f
 
 ### Performance delta of wet conditions
 
-## 4. Modeling
+## 4. [Modeling](https://github.com/felipesanze/F1_Predictor/blob/main/4_Modeling)
 
 
 ## 5. Next Steps
