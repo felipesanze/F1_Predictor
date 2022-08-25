@@ -31,8 +31,26 @@ These are the 2021 circuits ranked by the correlation of final race position and
 ![](Images/overall_driver_performance.png)
 ### Performance delta of wet conditions
 ![](Images/performance_delta_of_rain.png)
-## 4. [Modeling](https://github.com/felipesanze/F1_Predictor/blob/main/4_Modeling.ipynb)
 
+## 4. [Modeling](https://github.com/felipesanze/F1_Predictor/blob/main/4_Modeling.ipynb)
+**Target variable:** `win` (i.e. did the driver win the race or not)
+### Main challenge
+The main modeling challenge in this case is that the model will not predict the winner of each race if I pass it the entire dataset from 1950 to 2021. What we need it to do is to only see one race at a time and predict the winner. For this I needed a custom made scoring and predicting function that processes race per race in batches.  
+This also adds a layer of complexity to the model tunning process the evaluation of my results.
+### Prediction and scoring
+For a given race:
+*  I run a classifier to predict the probability of winning for each driver
+*  Sort the predicted values in descending order of win probability
+*  Map the top driver to win = 1 and the rest to win = 0
+*  Calculate the race score as the 'precision_score` of that race
+Model score:
+* Model score is the (sum of precision_score of all races) / (number of races in the test season). In other words, the average race precision score.
+### Feature importance
+* It makes sense that the qualifying result ('grid') be disproportionately more important than other features because it is chronologically the closest event to the actual race, specially in circuits where overtaking is more difficult. It is an indication of a driver's performance in 'lab conditions', without attacking, deffending, or managing tyres. 
+* The accumulated constructor and driver points are an indication of how likely is this driver to win given its positions in the past races of the season. They contain the year-to-date performance of a driver/constructor in a single number.
+* Similarly, the driver's age is a proxy for their tenure or experience in F1 (the two are extremely correlated). It is the all-time hisory of the driver. 
+* Weather_wet turned out to be way less important than expected.
+![](Images/feature_importance_mdi.png)
 
 ## 5. Next Steps
 *  Put it all into production: create an automated web interface where, right after qualifying on Saturday, the user presses a button, the fresh data gets scraped and ran through the model. The user will get an expected winner for the race of that weekend.
