@@ -46,7 +46,7 @@ For a given race:
 Model score:
 * Model score is the (sum of precision_score of all races) / (number of races in the test season). In other words, the average race precision score.
 ### Feature importance
-* It makes sense that the qualifying result ('grid') be disproportionately more important than other features because it is chronologically the closest event to the actual race, specially in circuits where overtaking is more difficult. It is an indication of a driver's performance in 'lab conditions', without attacking, deffending, or managing tyres. 
+* It makes sense that the qualifying result ('grid') be disproportionately more important than other features because it is the closest event to the actual race, specially in circuits where overtaking is more difficult. It is an indication of a driver's performance in 'lab conditions', without attacking, deffending, or managing tyres. 
 * The accumulated constructor and driver points are an indication of how likely is this driver to win given its positions in the past races of the season. They contain the year-to-date performance of a driver/constructor in a single number.
 * Similarly, the driver's age is a proxy for their tenure or experience in F1 (the two are extremely correlated). It is the all-time hisory of the driver. 
 * Weather_wet turned out to be way less important than expected.
