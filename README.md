@@ -21,16 +21,20 @@ Used the Beautiful Soup and Selenium libraries to scrape the 7 dataframes used f
 
 ## 3. [EDA](https://github.com/felipesanze/F1_Predictor/blob/main/3_EDA.ipynb)
 ### Feature Correlations
-
+![](Images/correlation_matrix.png)
 ### Circuits where qualifying matters the most
-
+![](Images/podium-grid_correlation.png)
 ### Historic performance of 2021 constructors
-
+![](Images/all_time_race_pos_by_constructor_2021.png)
 ### Average race finish position (wet and dry)
 
 ### Performance delta of wet conditions
-
+![](Images/performance_delta_of_rain.png)
 ## 4. [Modeling](https://github.com/felipesanze/F1_Predictor/blob/main/4_Modeling.ipynb)
 
 
 ## 5. Next Steps
+*  Put it all into production: create an automated web interface where, right after qualifying on Saturday, the user presses a button, the fresh data gets scraped and ran through the model. The user will get an expected winner for the race of that weekend.
+*  While estimating the probability of winning, we set teh driver with the higest probability as the winner. What if we calculate the percentage difference between the predicted winner and the predicted P2? This could give us a sense of how certain the model is about its prediction for a given race.
+*  Using a GPU, build a Neural Network to hopefully improve the quality of our predictions.
+*  Use Variance Inflation Factor (VIF) to check for multicollinearity.
