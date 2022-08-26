@@ -26,7 +26,7 @@ Used the Beautiful Soup and Selenium libraries to scrape the 7 dataframes used f
 
 ## 3. [EDA](https://github.com/felipesanze/F1_Predictor/blob/main/3_EDA.ipynb)
 
-### Feature Correlations
+### 3.1. Feature Correlations
 
 Weather-related features are not very correlated with final race position. I will drop them all but 'weather_wet' as I will use it for an analysis further down below.
 `reg_era` could be a useful categorical variable for the modeling stage later. We must be careful with multicollinearity.
@@ -34,33 +34,43 @@ After dropping redundant columns the feature correlation matrix looks like this:
 
 ![image](Images/correlation_matrix.png)
 
-### Circuits where qualifying matters the most
+### 3.2. Circuits where qualifying matters the most
 
 These are the 2021 circuits ranked by the correlation of final race position and qualifying position. We can see that even in the lower end of the list, qualifying position has a very significant correlaction with the race result. We can expect a high feature importance.
 ![image](Images/podium-grid_correlation.png)
 
-### Historic performance of 2021 constructors
+### 3.3. Historic performance of 2021 constructors
 
+The purpose of this figure is not to have a precise histogram of race positions for every constructor. Instead, it aims to provide a smoothed view of the **distribution** of the historical race positions. This way, we can see that **Mercedes** has the heaviest skew, largelly due to them dominating during the **V6 Hybrid** era. On the other hand, an older team like **Williams** visibly has two modes that represent their golden days and their current back-marker performance. Team rebranding has been taken into account for `aston_martin`, `alpha_tauri` and `alpine`.
 ![image](Images/all_time_race_pos_by_constructor_2021.png)
 
-### Average race finish position (wet and dry)
+### 3.4. Average race finish position (wet and dry)
 
+When it comes to overall driver performance, these are the top 10 drivers with the lowest all-time position average. Some things to point out:
+
+* This is not far from the general public concensus of who the best drivers of all time are.
+* Hamilton has the lowest average position by a significant margin to Prost.
+* It is impressive how Max Verstappen takes the 4th spot this early in his career, over Michael Schumacher.
 ![image](Images/overall_driver_performance.png)
 
-### Performance delta of wet conditions
+### 3.5. Performance delta of wet conditions
 
+I separated the metric in `3.4.` into performance in wet vs dry conditions and calculated the average positions gained (left, green) or lost (right, blue) by a given driver when racing in wet conditions (for top 20 dry-comditions drivers).
+
+* Overall, good drivers tend to score high.
+* Good drivers in not so good cars benefit greatly from the rain. This is because drivers cannot go full push in the wet, making the difference in car performance smaller. This happened to George Russel in Spa in 2021, when he qualified 2nd with the slowest car... In the wet.
 ![image](Images/performance_delta_of_rain.png)
 
 ## 4. [Modeling](https://github.com/felipesanze/F1_Predictor/blob/main/4_Modeling.ipynb)
 
 **Target variable:** `win` (i.e. did the driver win the race or not)
 
-### Main challenge
+### 4.1. Main challenge
 
 The main modeling challenge in this case is that the model will not predict the winner of each race if I pass it the entire dataset from 1983 to 2021. What we need it to do is to only see one race at a time and predict the winner. For this I needed a custom made scoring and predicting function that processes race per race in batches.  
 This also adds a layer of complexity to the model tunning process the evaluation of my results.
 
-### Prediction and scoring
+### 4.2. Prediction and scoring
 
 For a given race:
 
@@ -71,7 +81,7 @@ For a given race:
 Model score:
 * Model score is the (sum of precision_score of all races) / (number of races in the test season). In other words, the average race precision score.
 
-### Feature importance
+### 4.3. Feature importance
 
 * It makes sense that the qualifying result ('grid') be disproportionately more important than other features because it is the closest event to the actual race, specially in circuits where overtaking is more difficult. It is an indication of a driver's performance in 'lab conditions', without attacking, deffending, or managing tyres.
 * The accumulated constructor and driver points are an indication of how likely is this driver to win given its positions in the past races of the season. They contain the year-to-date performance of a driver/constructor in a single number.
@@ -80,7 +90,7 @@ Model score:
 
 ![image](Images/feature_importance_mdi.png)
 
-### Results
+### 4.4. Results
 
 The model is able to predict the race winner with a `63%` presicion score. That translates into right above half the races correctly predicted. I do not recommend to use this model for betting purposes beyond the 2021 season. F1 regulations have suffered significant changes that make it unlikely that this model perform well from 2022 onwards. I will revisit it after the 2022 season ends to evaluate that possibility.
 
