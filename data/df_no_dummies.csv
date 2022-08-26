@@ -966,7 +966,7 @@ season,round,circuit_id,weather,weather_warm,weather_cold,weather_dry,weather_we
 1985,8,silverstone,"Cool, overcast",0,0,0,0,1,alliot,French,ram,21,25,0,0,21,0,0,11,4.018,30
 1985,8,silverstone,"Cool, overcast",0,0,0,0,1,cheever,American,alfa,22,20,0,0,19,0,0,10,4.7540000000000004,27
 1985,8,silverstone,"Cool, overcast",0,0,0,0,1,martini,Italian,minardi,23,15,0,0,27,0,0,15,8.053999999999998,24
-1985,8,silverstone,"Cool, overcast",0,0,0,0,1,palmer,British,zakspeed,24,21,0,0,24,0,0,13,8.121999999999998,28
+1985,8,silverstone,"Cool, overcast",0,0,0,0,1,palmer,British,zakspeed,24,21,0,0,24,0,0,13,8.122,28
 1985,8,silverstone,"Cool, overcast",0,0,0,0,1,ghinzani,Italian,osella,25,26,0,0,20,0,0,12,10.808999999999997,33
 1985,8,silverstone,"Cool, overcast",0,0,0,0,1,bellof,German,tyrrell,26,11,4,0,11,4,0,9,11.004999999999999,27
 1985,9,nurburgring,Dry,0,0,1,0,0,fabi,Italian,toleman,1,16,0,0,26,0,0,14,0.0,30
@@ -1285,9 +1285,9 @@ season,round,circuit_id,weather,weather_warm,weather_cold,weather_dry,weather_we
 1986,5,spa,Dry,0,0,1,0,0,cesaris,Italian,minardi,19,14,0,0,24,0,0,13,5.628999999999998,26
 1986,5,spa,Dry,0,0,1,0,0,palmer,British,zakspeed,20,13,0,0,20,0,0,11,-54.183,29
 1986,5,spa,Dry,0,0,1,0,0,surer,Swiss,arrows,21,9,0,0,17,0,0,9,-53.011,34
-1986,5,spa,Dry,0,0,1,0,0,nannini,Italian,minardi,22,17,0,0,25,0,0,13,-52.977000000000004,26
-1986,5,spa,Dry,0,0,1,0,0,rothengatter,Dutch,zakspeed,23,15,0,0,26,0,0,11,-50.489000000000004,31
-1986,5,spa,Dry,0,0,1,0,0,ghinzani,Italian,osella,24,23,0,0,21,0,0,12,-49.239000000000004,34
+1986,5,spa,Dry,0,0,1,0,0,nannini,Italian,minardi,22,17,0,0,25,0,0,13,-52.977,26
+1986,5,spa,Dry,0,0,1,0,0,rothengatter,Dutch,zakspeed,23,15,0,0,26,0,0,11,-50.489,31
+1986,5,spa,Dry,0,0,1,0,0,ghinzani,Italian,osella,24,23,0,0,21,0,0,12,-49.239,34
 1986,5,spa,Dry,0,0,1,0,0,danner,German,osella,25,24,0,0,22,0,0,12,-48.112,28
 1986,6,villeneuve,Dry with temperatures approaching 25 °C (77 °F); wind speeds up to 20.5 km/h (12.7 mph)[1],0,0,1,0,0,mansell,British,williams,1,1,18,1,3,33,2,2,0.0,32
 1986,6,villeneuve,Dry with temperatures approaching 25 °C (77 °F); wind speeds up to 20.5 km/h (12.7 mph)[1],0,0,1,0,0,senna,Brazilian,team_lotus,2,5,25,1,1,25,1,3,0.07000000000000028,26
@@ -1641,13 +1641,13 @@ season,round,circuit_id,weather,weather_warm,weather_cold,weather_dry,weather_we
 1987,3,spa,Cloudy and cool,0,1,0,0,1,ghinzani,Italian,ligier,17,7,0,0,26,0,0,15,7.2649999999999935,35
 1987,3,spa,Cloudy and cool,0,1,0,0,1,brundle,British,zakspeed,18,12,2,0,9,2,0,5,-51.593,27
 1987,3,spa,Cloudy and cool,0,1,0,0,1,campos,Spanish,minardi,19,25,0,0,23,0,0,13,-51.263000000000005,26
-1987,3,spa,Cloudy and cool,0,1,0,0,1,danner,German,zakspeed,20,20,0,0,11,2,0,5,-50.95400000000001,29
-1987,3,spa,Cloudy and cool,0,1,0,0,1,capelli,Italian,march,21,16,0,0,25,0,0,14,-49.99000000000001,23
-1987,3,spa,Cloudy and cool,0,1,0,0,1,alliot,French,larrousse,22,8,0,0,15,0,0,9,-49.67900000000001,32
-1987,3,spa,Cloudy and cool,0,1,0,0,1,streiff,French,tyrrell,23,9,0,0,12,0,0,7,-48.92800000000001,31
-1987,3,spa,Cloudy and cool,0,1,0,0,1,palmer,British,tyrrell,24,26,0,0,14,0,0,7,-47.34900000000001,30
-1987,3,spa,Cloudy and cool,0,1,0,0,1,fabre,French,ags,25,10,0,0,17,0,0,11,-44.66500000000001,27
-1987,3,spa,Cloudy and cool,0,1,0,0,1,caffi,Italian,osella,26,18,0,0,18,0,0,12,-39.94000000000001,23
+1987,3,spa,Cloudy and cool,0,1,0,0,1,danner,German,zakspeed,20,20,0,0,11,2,0,5,-50.954,29
+1987,3,spa,Cloudy and cool,0,1,0,0,1,capelli,Italian,march,21,16,0,0,25,0,0,14,-49.99,23
+1987,3,spa,Cloudy and cool,0,1,0,0,1,alliot,French,larrousse,22,8,0,0,15,0,0,9,-49.679,32
+1987,3,spa,Cloudy and cool,0,1,0,0,1,streiff,French,tyrrell,23,9,0,0,12,0,0,7,-48.928000000000004,31
+1987,3,spa,Cloudy and cool,0,1,0,0,1,palmer,British,tyrrell,24,26,0,0,14,0,0,7,-47.349000000000004,30
+1987,3,spa,Cloudy and cool,0,1,0,0,1,fabre,French,ags,25,10,0,0,17,0,0,11,-44.665000000000006,27
+1987,3,spa,Cloudy and cool,0,1,0,0,1,caffi,Italian,osella,26,18,0,0,18,0,0,12,-39.940000000000005,23
 1987,4,monaco,Sunny and warm,1,0,0,0,0,mansell,British,williams,1,21,10,1,3,16,1,2,0.0,33
 1987,4,monaco,Sunny and warm,1,0,0,0,0,senna,Brazilian,team_lotus,2,1,6,0,4,9,0,3,0.671999999999997,27
 1987,4,monaco,Sunny and warm,1,0,0,0,0,piquet,Brazilian,williams,3,2,6,0,5,16,1,2,1.7159999999999975,34
@@ -1746,7 +1746,7 @@ season,round,circuit_id,weather,weather_warm,weather_cold,weather_dry,weather_we
 1987,7,silverstone,Sunny and warm,1,0,0,0,0,ghinzani,Italian,ligier,19,26,0,0,19,1,0,10,6.271,35
 1987,7,silverstone,Sunny and warm,1,0,0,0,0,caffi,Italian,osella,20,16,0,0,24,0,0,14,6.682999999999999,23
 1987,7,silverstone,Sunny and warm,1,0,0,0,0,alliot,French,larrousse,21,23,0,0,20,0,0,12,8.448,32
-1987,7,silverstone,Sunny and warm,1,0,0,0,0,streiff,French,tyrrell,22,10,1,0,15,3,0,8,8.758000000000001,32
+1987,7,silverstone,Sunny and warm,1,0,0,0,0,streiff,French,tyrrell,22,10,1,0,15,3,0,8,8.758,32
 1987,7,silverstone,Sunny and warm,1,0,0,0,0,palmer,British,tyrrell,23,8,2,0,11,3,0,8,9.414000000000001,30
 1987,7,silverstone,Sunny and warm,1,0,0,0,0,capelli,Italian,march,24,25,1,0,17,1,0,11,9.533999999999999,24
 1987,7,silverstone,Sunny and warm,1,0,0,0,0,fabre,French,ags,25,9,0,0,22,0,0,13,9.582,27
@@ -2262,14 +2262,14 @@ season,round,circuit_id,weather,weather_warm,weather_cold,weather_dry,weather_we
 1988,11,spa,"Warm, dry and overcast",0,0,1,0,1,alliot,French,larrousse,16,9,0,0,25,0,0,11,6.187999999999995,34
 1988,11,spa,"Warm, dry and overcast",0,0,1,0,1,arnoux,French,ligier,17,26,0,0,0,0,0,14,-53.681000000000004,40
 1988,11,spa,"Warm, dry and overcast",0,0,1,0,1,streiff,French,ags,18,10,0,0,26,0,0,16,-53.30800000000001,33
-1988,11,spa,"Warm, dry and overcast",0,0,1,0,1,cesaris,Italian,rial,19,25,3,0,13,3,0,9,-53.19700000000001,29
-1988,11,spa,"Warm, dry and overcast",0,0,1,0,1,johansson,Swedish,ligier,20,11,0,0,21,0,0,14,-52.86100000000001,31
-1988,11,spa,"Warm, dry and overcast",0,0,1,0,1,palmer,British,tyrrell,21,12,5,0,11,5,0,8,-52.640000000000015,31
-1988,11,spa,"Warm, dry and overcast",0,0,1,0,1,tarquini,Italian,coloni,22,16,0,0,20,0,0,13,-52.359000000000016,26
-1988,11,spa,"Warm, dry and overcast",0,0,1,0,1,dalmas,French,larrousse,23,24,0,0,18,0,0,11,-52.25100000000002,27
-1988,11,spa,"Warm, dry and overcast",0,0,1,0,1,ghinzani,Italian,zakspeed,24,20,0,0,0,0,0,18,-51.81900000000002,36
-1988,11,spa,"Warm, dry and overcast",0,0,1,0,1,schneider,German,zakspeed,25,13,0,0,28,0,0,18,-51.780000000000015,24
-1988,11,spa,"Warm, dry and overcast",0,0,1,0,1,larini,Italian,osella,26,22,0,0,23,0,0,15,-51.689000000000014,24
+1988,11,spa,"Warm, dry and overcast",0,0,1,0,1,cesaris,Italian,rial,19,25,3,0,13,3,0,9,-53.197,29
+1988,11,spa,"Warm, dry and overcast",0,0,1,0,1,johansson,Swedish,ligier,20,11,0,0,21,0,0,14,-52.861000000000004,31
+1988,11,spa,"Warm, dry and overcast",0,0,1,0,1,palmer,British,tyrrell,21,12,5,0,11,5,0,8,-52.64000000000001,31
+1988,11,spa,"Warm, dry and overcast",0,0,1,0,1,tarquini,Italian,coloni,22,16,0,0,20,0,0,13,-52.359,26
+1988,11,spa,"Warm, dry and overcast",0,0,1,0,1,dalmas,French,larrousse,23,24,0,0,18,0,0,11,-52.251000000000005,27
+1988,11,spa,"Warm, dry and overcast",0,0,1,0,1,ghinzani,Italian,zakspeed,24,20,0,0,0,0,0,18,-51.819,36
+1988,11,spa,"Warm, dry and overcast",0,0,1,0,1,schneider,German,zakspeed,25,13,0,0,28,0,0,18,-51.78,24
+1988,11,spa,"Warm, dry and overcast",0,0,1,0,1,larini,Italian,osella,26,22,0,0,23,0,0,15,-51.68900000000001,24
 1988,12,monza,Sunny and hot,1,0,0,0,0,senna,Brazilian,mclaren,1,10,75,7,1,147,11,1,0.0,28
 1988,12,monza,Sunny and hot,1,0,0,0,0,prost,French,mclaren,2,14,72,4,2,147,11,1,0.3030000000000008,33
 1988,12,monza,Sunny and hot,1,0,0,0,0,berger,Austrian,ferrari,3,1,28,0,3,44,0,2,0.6799999999999997,29
@@ -5150,7 +5150,7 @@ season,round,circuit_id,weather,weather_warm,weather_cold,weather_dry,weather_we
 1995,11,spa,"Cloudy, then heavy rain",0,0,0,1,0,montermini,Italian,pacific,21,21,0,0,21,0,0,11,-51.987,31
 1995,11,spa,"Cloudy, then heavy rain",0,0,0,1,0,moreno,Brazilian,forti,22,14,0,0,30,0,0,13,-50.575,36
 1995,11,spa,"Cloudy, then heavy rain",0,0,0,1,0,lavaggi,Italian,pacific,23,16,0,0,0,0,0,11,-47.985,37
-1995,11,spa,"Cloudy, then heavy rain",0,0,0,1,0,diniz,Brazilian,forti,24,13,0,0,25,0,0,13,-44.855,25
+1995,11,spa,"Cloudy, then heavy rain",0,0,0,1,0,diniz,Brazilian,forti,24,13,0,0,25,0,0,13,-44.855000000000004,25
 1995,12,monza,Sunny,1,0,0,0,0,coulthard,British,williams,1,19,29,0,4,80,3,2,0.0,24
 1995,12,monza,Sunny,1,0,0,0,0,michael_schumacher,German,benetton,2,16,66,6,1,94,7,1,0.5640000000000001,26
 1995,12,monza,Sunny,1,0,0,0,0,berger,Austrian,ferrari,3,14,25,0,6,57,1,3,0.8910000000000018,36
@@ -6378,7 +6378,7 @@ season,round,circuit_id,weather,weather_warm,weather_cold,weather_dry,weather_we
 1999,2,interlagos,"Sunny, hot, dry 25 °C (77 °F)[1]",0,0,1,0,0,sarrazin,French,minardi,18,16,0,0,0,0,0,0,3.506999999999998,23
 1999,2,interlagos,"Sunny, hot, dry 25 °C (77 °F)[1]",0,0,1,0,0,takagi,Japanese,arrows,19,8,0,0,7,1,0,6,3.5279999999999987,25
 1999,2,interlagos,"Sunny, hot, dry 25 °C (77 °F)[1]",0,0,1,0,0,gene,Spanish,minardi,20,9,0,0,0,0,0,0,4.1419999999999995,25
-1999,2,interlagos,"Sunny, hot, dry 25 °C (77 °F)[1]",0,0,1,0,0,villeneuve,Canadian,bar,21,11,0,0,0,0,0,0,-2.5880833333333335,28
+1999,2,interlagos,"Sunny, hot, dry 25 °C (77 °F)[1]",0,0,1,0,0,villeneuve,Canadian,bar,21,11,0,0,0,0,0,0,-2.5880833333333353,28
 1999,3,imola,"Sunny, mild, dry, 23 °C",0,0,0,0,0,hakkinen,Finnish,mclaren,1,18,10,1,2,10,1,2,0.0,30
 1999,3,imola,"Sunny, mild, dry, 23 °C",0,0,0,0,0,coulthard,British,mclaren,2,2,0,0,0,10,1,2,0.022000000000002018,28
 1999,3,imola,"Sunny, mild, dry, 23 °C",0,0,0,0,0,michael_schumacher,German,ferrari,3,1,6,0,5,18,1,1,0.17600000000000193,30
@@ -7536,7 +7536,7 @@ season,round,circuit_id,weather,weather_warm,weather_cold,weather_dry,weather_we
 2002,5,catalunya,"Clear, Air Temp: 20°C",0,0,0,0,0,salo,Finnish,toyota,17,9,2,0,11,2,0,8,2.5329999999999977,35
 2002,5,catalunya,"Clear, Air Temp: 20°C",0,0,0,0,0,sato,Japanese,jordan,18,16,0,0,17,0,0,10,2.637999999999998,25
 2002,5,catalunya,"Clear, Air Temp: 20°C",0,0,0,0,0,mcnish,British,toyota,19,8,0,0,15,2,0,8,2.660999999999998,32
-2002,5,catalunya,"Clear, Air Temp: 20°C",0,0,0,0,0,webber,Australian,minardi,20,21,2,0,10,2,0,7,8.655071428571432,25
+2002,5,catalunya,"Clear, Air Temp: 20°C",0,0,0,0,0,webber,Australian,minardi,20,21,2,0,10,2,0,7,8.655071428571429,25
 2002,6,red_bull_ring,"Clear, Air Temp: 20°C",0,0,0,0,0,barrichello,Brazilian,ferrari,1,2,6,0,6,50,4,1,0.0,29
 2002,6,red_bull_ring,"Clear, Air Temp: 20°C",0,0,0,0,0,ralf_schumacher,German,williams,2,4,20,1,3,43,1,2,0.28200000000000003,26
 2002,6,red_bull_ring,"Clear, Air Temp: 20°C",0,0,0,0,0,michael_schumacher,German,ferrari,3,1,44,4,1,50,4,1,0.6219999999999999,33
@@ -8380,7 +8380,7 @@ season,round,circuit_id,weather,weather_warm,weather_cold,weather_dry,weather_we
 2004,14,spa,Dry with temperatures reaching up to 15 °C (59 °F)[1],0,0,1,0,0,heidfeld,German,jordan,16,11,3,0,17,5,0,9,-53.586999999999996,27
 2004,14,spa,Dry with temperatures reaching up to 15 °C (59 °F)[1],0,0,1,0,0,bruni,Italian,minardi,17,19,0,0,23,1,0,10,-53.580999999999996,23
 2004,14,spa,Dry with temperatures reaching up to 15 °C (59 °F)[1],0,0,1,0,0,baumgartner,Hungarian,minardi,18,15,1,0,19,1,0,10,-52.928999999999995,23
-2004,14,spa,Dry with temperatures reaching up to 15 °C (59 °F)[1],0,0,1,0,0,pantano,Italian,jordan,19,20,0,0,22,5,0,9,-52.398999999999994,25
+2004,14,spa,Dry with temperatures reaching up to 15 °C (59 °F)[1],0,0,1,0,0,pantano,Italian,jordan,19,20,0,0,22,5,0,9,-52.399,25
 2004,14,spa,Dry with temperatures reaching up to 15 °C (59 °F)[1],0,0,1,0,0,zonta,Brazilian,toyota,20,10,0,0,0,8,0,7,-52.336999999999996,28
 2004,15,monza,"Wet track at the start, dry later on",0,0,1,1,0,barrichello,Brazilian,ferrari,1,1,88,0,2,216,12,1,0.0,32
 2004,15,monza,"Wet track at the start, dry later on",0,0,1,1,0,montoya,Colombian,williams,2,5,38,0,6,54,0,4,0.5310000000000024,28
@@ -8521,7 +8521,7 @@ season,round,circuit_id,weather,weather_warm,weather_cold,weather_dry,weather_we
 2005,3,bahrain,"Sunny, 42 °C (108 °F)[1]",0,0,0,0,0,karthikeyan,Indian,jordan,17,19,0,0,14,0,0,8,8.241,28
 2005,3,bahrain,"Sunny, 42 °C (108 °F)[1]",0,0,0,0,0,albers,Dutch,minardi,18,13,0,0,17,0,0,9,8.52,25
 2005,3,bahrain,"Sunny, 42 °C (108 °F)[1]",0,0,0,0,0,friesacher,Austrian,minardi,19,12,0,0,18,0,0,9,9.358999999999998,24
-2005,3,bahrain,"Sunny, 42 °C (108 °F)[1]",0,0,0,0,0,barrichello,Brazilian,ferrari,20,9,8,0,4,10,0,4,5.790999999999999,32
+2005,3,bahrain,"Sunny, 42 °C (108 °F)[1]",0,0,0,0,0,barrichello,Brazilian,ferrari,20,9,8,0,4,10,0,4,5.7909999999999995,32
 2005,4,imola,Warm and cloudy,1,0,0,0,1,raikkonen,Finnish,mclaren,1,16,7,0,8,19,0,3,0.0,25
 2005,4,imola,Warm and cloudy,1,0,0,0,1,alonso,Spanish,renault,2,1,26,2,1,36,3,1,0.5609999999999999,23
 2005,4,imola,Warm and cloudy,1,0,0,0,1,button,British,bar,3,19,0,0,20,0,0,10,1.2249999999999943,25
@@ -8559,7 +8559,7 @@ season,round,circuit_id,weather,weather_warm,weather_cold,weather_dry,weather_we
 2005,5,catalunya,"Sunny, warm",1,0,0,0,0,friesacher,Austrian,minardi,15,17,0,0,20,0,0,9,11.338000000000001,24
 2005,5,catalunya,"Sunny, warm",1,0,0,0,0,barrichello,Brazilian,ferrari,16,9,8,0,9,18,0,4,-15.674999999999997,32
 2005,5,catalunya,"Sunny, warm",1,0,0,0,0,heidfeld,German,williams,17,10,9,0,5,18,0,5,-16.382999999999996,27
-2005,5,catalunya,"Sunny, warm",1,0,0,0,0,monteiro,Portuguese,jordan,18,12,0,0,18,0,0,8,8.522000000000002,28
+2005,5,catalunya,"Sunny, warm",1,0,0,0,0,monteiro,Portuguese,jordan,18,12,0,0,18,0,0,8,8.521999999999998,28
 2005,6,monaco,Fine,1,0,0,0,0,raikkonen,Finnish,mclaren,1,1,17,1,3,37,1,3,0.0,25
 2005,6,monaco,Fine,1,0,0,0,0,alonso,Spanish,renault,2,4,44,3,1,58,4,1,0.08299999999999841,23
 2005,6,monaco,Fine,1,0,0,0,0,webber,Australian,williams,3,3,12,0,6,21,0,4,1.3329999999999984,28
@@ -8989,7 +8989,7 @@ season,round,circuit_id,weather,weather_warm,weather_cold,weather_dry,weather_we
 2006,7,monaco,Fine,1,0,0,0,0,speed,American,toro_rosso,18,13,0,0,17,0,0,9,2.274000000000001,23
 2006,7,monaco,Fine,1,0,0,0,0,sato,Japanese,super_aguri,19,22,0,0,21,0,0,11,3.314,29
 2006,7,monaco,Fine,1,0,0,0,0,montagny,French,super_aguri,20,16,0,0,0,0,0,11,3.539999999999999,28
-2006,7,monaco,Fine,1,0,0,0,0,massa,Brazilian,ferrari,21,9,20,0,5,59,2,2,5.091569444444438,25
+2006,7,monaco,Fine,1,0,0,0,0,massa,Brazilian,ferrari,21,9,20,0,5,59,2,2,5.0915694444444455,25
 2006,8,silverstone,Sunny,1,0,0,0,0,alonso,Spanish,renault,1,1,64,4,1,91,5,1,0.0,24
 2006,8,silverstone,Sunny,1,0,0,0,0,raikkonen,Finnish,mclaren,2,3,27,0,4,50,0,3,0.14399999999999835,26
 2006,8,silverstone,Sunny,1,0,0,0,0,michael_schumacher,German,ferrari,3,2,43,2,2,63,2,2,0.3210000000000015,37
@@ -9311,13 +9311,13 @@ season,round,circuit_id,weather,weather_warm,weather_cold,weather_dry,weather_we
 2007,4,catalunya,Sunny and warm,1,0,0,0,0,sato,Japanese,super_aguri,13,8,0,0,15,0,0,8,0.6939999999999991,30
 2007,4,catalunya,Sunny and warm,1,0,0,0,0,button,British,honda,14,12,0,0,16,0,0,7,0.6990000000000016,27
 2007,4,catalunya,Sunny and warm,1,0,0,0,0,davidson,British,super_aguri,15,11,0,0,21,0,0,8,0.6939999999999991,28
-2007,4,catalunya,Sunny and warm,1,0,0,0,0,liuzzi,Italian,toro_rosso,16,17,0,0,17,0,0,9,0.7003846153846176,26
+2007,4,catalunya,Sunny and warm,1,0,0,0,0,liuzzi,Italian,toro_rosso,16,17,0,0,17,0,0,9,0.700384615384614,26
 2007,4,catalunya,Sunny and warm,1,0,0,0,0,ralf_schumacher,German,toyota,17,16,1,0,11,5,0,4,1.245000000000001,31
 2007,4,catalunya,Sunny and warm,1,0,0,0,0,wurz,Austrian,williams,18,22,0,0,12,2,0,5,1.347999999999999,33
 2007,4,catalunya,Sunny and warm,1,0,0,0,0,webber,Australian,red_bull,19,21,0,0,13,0,0,6,1.9770000000000003,30
 2007,4,catalunya,Sunny and warm,1,0,0,0,0,sutil,German,spyker,20,13,0,0,20,0,0,10,2.3900000000000006,24
 2007,4,catalunya,Sunny and warm,1,0,0,0,0,albers,Dutch,spyker,21,14,0,0,18,0,0,10,2.568999999999999,28
-2007,4,catalunya,Sunny and warm,1,0,0,0,0,speed,American,toro_rosso,22,18,0,0,19,0,0,9,0.7003846153846176,24
+2007,4,catalunya,Sunny and warm,1,0,0,0,0,speed,American,toro_rosso,22,18,0,0,19,0,0,9,0.700384615384614,24
 2007,5,monaco,"Cloudy, air temp 24–27 °C (75–81 °F), track temp 33–42 °C (91–108 °F)",0,0,0,0,0,alonso,Spanish,mclaren,1,1,28,1,2,58,1,11,0.0,25
 2007,5,monaco,"Cloudy, air temp 24–27 °C (75–81 °F), track temp 33–42 °C (91–108 °F)",0,0,0,0,0,hamilton,British,mclaren,2,2,30,0,1,58,1,11,0.1789999999999985,22
 2007,5,monaco,"Cloudy, air temp 24–27 °C (75–81 °F), track temp 33–42 °C (91–108 °F)",0,0,0,0,0,massa,Brazilian,ferrari,3,3,27,2,3,49,3,1,0.24099999999999966,26
@@ -10595,7 +10595,7 @@ season,round,circuit_id,weather,weather_warm,weather_cold,weather_dry,weather_we
 2010,13,spa,Intermittent rain,0,0,0,1,0,buemi,Swiss,toro_rosso,16,12,7,0,16,10,0,9,3.4310000000000045,21
 2010,13,spa,Intermittent rain,0,0,0,1,0,kobayashi,Japanese,sauber,17,8,17,0,13,23,0,8,-43.494,23
 2010,13,spa,Intermittent rain,0,0,0,1,0,bruno_senna,Brazilian,hrt,18,23,0,0,23,0,0,11,-42.166,26
-2010,13,spa,Intermittent rain,0,0,0,1,0,yamamoto,Japanese,hrt,19,20,0,0,25,0,0,11,-41.836999999999996,28
+2010,13,spa,Intermittent rain,0,0,0,1,0,yamamoto,Japanese,hrt,19,20,0,0,25,0,0,11,-41.837,28
 2010,13,spa,Intermittent rain,0,0,0,1,0,glock,German,virgin,20,18,0,0,24,0,0,12,6.271000000000001,28
 2010,13,spa,Intermittent rain,0,0,0,1,0,michael_schumacher,German,mercedes,21,7,38,0,9,132,0,4,2.0960000000000036,41
 2010,13,spa,Intermittent rain,0,0,0,1,0,grassi,Brazilian,virgin,22,17,0,0,21,0,0,12,-27.023999999999997,26
@@ -11018,17 +11018,17 @@ season,round,circuit_id,weather,weather_warm,weather_cold,weather_dry,weather_we
 2011,12,spa,"Cloudy, dry",0,0,1,0,0,buemi,Swiss,toro_rosso,11,23,12,0,13,22,0,8,-43.606,22
 2011,12,spa,"Cloudy, dry",0,0,1,0,0,kobayashi,Japanese,sauber,12,12,27,0,11,35,0,6,-43.541000000000004,24
 2011,12,spa,"Cloudy, dry",0,0,1,0,0,button,British,mclaren,13,3,134,2,5,280,4,2,-43.148,31
-2011,12,spa,"Cloudy, dry",0,0,1,0,0,barrichello,Brazilian,williams,14,16,4,0,17,4,0,9,-40.949000000000005,39
-2011,12,spa,"Cloudy, dry",0,0,1,0,0,sutil,German,force_india,15,7,18,0,12,26,0,7,-40.52100000000001,28
-2011,12,spa,"Cloudy, dry",0,0,1,0,0,kovalainen,Finnish,lotus_racing,16,15,0,0,23,0,0,10,-39.94400000000001,29
-2011,12,spa,"Cloudy, dry",0,0,1,0,0,resta,British,force_india,17,11,8,0,16,26,0,7,-40.540000000000006,25
+2011,12,spa,"Cloudy, dry",0,0,1,0,0,barrichello,Brazilian,williams,14,16,4,0,17,4,0,9,-40.949,39
+2011,12,spa,"Cloudy, dry",0,0,1,0,0,sutil,German,force_india,15,7,18,0,12,26,0,7,-40.521,28
+2011,12,spa,"Cloudy, dry",0,0,1,0,0,kovalainen,Finnish,lotus_racing,16,15,0,0,23,0,0,10,-39.944,29
+2011,12,spa,"Cloudy, dry",0,0,1,0,0,resta,British,force_india,17,11,8,0,16,26,0,7,-40.54,25
 2011,12,spa,"Cloudy, dry",0,0,1,0,0,trulli,Italian,lotus_racing,18,14,0,0,19,0,0,10,-39.525000000000006,37
-2011,12,spa,"Cloudy, dry",0,0,1,0,0,glock,German,virgin,19,18,0,0,24,0,0,12,-38.732000000000006,29
+2011,12,spa,"Cloudy, dry",0,0,1,0,0,glock,German,virgin,19,18,0,0,24,0,0,12,-38.732,29
 2011,12,spa,"Cloudy, dry",0,0,1,0,0,ambrosio,Belgian,virgin,20,17,0,0,22,0,0,12,-36.697,25
-2011,12,spa,"Cloudy, dry",0,0,1,0,0,maldonado,Venezuelan,williams,21,10,0,0,21,4,0,9,-40.19200000000001,26
-2011,12,spa,"Cloudy, dry",0,0,1,0,0,liuzzi,Italian,hrt,22,19,0,0,20,0,0,11,-36.68200000000001,31
-2011,12,spa,"Cloudy, dry",0,0,1,0,0,ricciardo,Australian,hrt,23,21,0,0,26,0,0,11,-35.22100000000001,22
-2011,12,spa,"Cloudy, dry",0,0,1,0,0,michael_schumacher,German,mercedes,24,5,32,0,10,80,0,4,2.2539999999999907,42
+2011,12,spa,"Cloudy, dry",0,0,1,0,0,maldonado,Venezuelan,williams,21,10,0,0,21,4,0,9,-40.192,26
+2011,12,spa,"Cloudy, dry",0,0,1,0,0,liuzzi,Italian,hrt,22,19,0,0,20,0,0,11,-36.682,31
+2011,12,spa,"Cloudy, dry",0,0,1,0,0,ricciardo,Australian,hrt,23,21,0,0,26,0,0,11,-35.221000000000004,22
+2011,12,spa,"Cloudy, dry",0,0,1,0,0,michael_schumacher,German,mercedes,24,5,32,0,10,80,0,4,2.253999999999998,42
 2011,13,monza,Mainly sunny,1,0,0,0,0,vettel,German,red_bull,1,1,259,7,1,426,7,1,0.0,24
 2011,13,monza,Mainly sunny,1,0,0,0,0,hamilton,British,mclaren,2,4,146,2,5,295,4,2,0.45000000000000284,26
 2011,13,monza,Mainly sunny,1,0,0,0,0,button,British,mclaren,3,2,149,2,4,295,4,2,0.5020000000000024,31
@@ -11061,8 +11061,8 @@ season,round,circuit_id,weather,weather_warm,weather_cold,weather_dry,weather_we
 2011,14,marina_bay,Hot and humid Air Temp 31 °C (88 °F)[1],1,0,0,0,0,massa,Brazilian,ferrari,6,9,82,0,6,254,1,3,1.418999999999997,30
 2011,14,marina_bay,Hot and humid Air Temp 31 °C (88 °F)[1],1,0,0,0,0,rosberg,German,mercedes,7,7,56,0,7,108,0,4,1.631999999999998,26
 2011,14,marina_bay,Hot and humid Air Temp 31 °C (88 °F)[1],1,0,0,0,0,michael_schumacher,German,mercedes,8,23,52,0,8,108,0,4,1.631999999999998,42
-2011,14,marina_bay,Hot and humid Air Temp 31 °C (88 °F)[1],1,0,0,0,0,sutil,German,force_india,9,8,24,0,12,36,0,6,1.2682105263157837,28
-2011,14,marina_bay,Hot and humid Air Temp 31 °C (88 °F)[1],1,0,0,0,0,resta,British,force_india,10,6,12,0,15,36,0,6,1.2682105263157837,25
+2011,14,marina_bay,Hot and humid Air Temp 31 °C (88 °F)[1],1,0,0,0,0,sutil,German,force_india,9,8,24,0,12,36,0,6,1.2682105263157908,28
+2011,14,marina_bay,Hot and humid Air Temp 31 °C (88 °F)[1],1,0,0,0,0,resta,British,force_india,10,6,12,0,15,36,0,6,1.2682105263157908,25
 2011,14,marina_bay,Hot and humid Air Temp 31 °C (88 °F)[1],1,0,0,0,0,perez,Mexican,sauber,11,10,8,0,16,35,0,7,3.2349999999999994,21
 2011,14,marina_bay,Hot and humid Air Temp 31 °C (88 °F)[1],1,0,0,0,0,barrichello,Brazilian,williams,12,13,4,0,17,5,0,9,3.7010000000000005,39
 2011,14,marina_bay,Hot and humid Air Temp 31 °C (88 °F)[1],1,0,0,0,0,maldonado,Venezuelan,williams,13,11,1,0,19,5,0,9,3.889000000000003,26
@@ -11084,7 +11084,7 @@ season,round,circuit_id,weather,weather_warm,weather_cold,weather_dry,weather_we
 2011,15,suzuka,Sunny and dry Air Temp 24 °C (75 °F)[3],1,0,1,0,0,alonso,Spanish,ferrari,5,2,184,1,3,268,1,3,0.41999999999999815,30
 2011,15,suzuka,Sunny and dry Air Temp 24 °C (75 °F)[3],1,0,1,0,0,webber,Australian,red_bull,6,4,182,0,4,491,9,1,0.6899999999999977,35
 2011,15,suzuka,Sunny and dry Air Temp 24 °C (75 °F)[3],1,0,1,0,0,kobayashi,Japanese,sauber,7,13,27,0,12,36,0,7,5.982585365853659,25
-2011,15,suzuka,Sunny and dry Air Temp 24 °C (75 °F)[3],1,0,1,0,0,michael_schumacher,German,mercedes,8,6,52,0,8,114,0,4,-0.008888888888886726,42
+2011,15,suzuka,Sunny and dry Air Temp 24 °C (75 °F)[3],1,0,1,0,0,michael_schumacher,German,mercedes,8,6,52,0,8,114,0,4,-0.008888888888893831,42
 2011,15,suzuka,Sunny and dry Air Temp 24 °C (75 °F)[3],1,0,1,0,0,bruno_senna,Brazilian,renault,9,16,2,0,18,70,0,5,3.2519090909090878,27
 2011,15,suzuka,Sunny and dry Air Temp 24 °C (75 °F)[3],1,0,1,0,0,petrov,Russian,renault,10,9,34,0,9,70,0,5,3.2519090909090878,27
 2011,15,suzuka,Sunny and dry Air Temp 24 °C (75 °F)[3],1,0,1,0,0,sutil,German,force_india,11,11,28,0,11,48,0,6,1.9969999999999999,28
@@ -11099,7 +11099,7 @@ season,round,circuit_id,weather,weather_warm,weather_cold,weather_dry,weather_we
 2011,15,suzuka,Sunny and dry Air Temp 24 °C (75 °F)[3],1,0,1,0,0,ambrosio,Belgian,virgin,20,21,0,0,24,0,0,12,5.972999999999999,25
 2011,15,suzuka,Sunny and dry Air Temp 24 °C (75 °F)[3],1,0,1,0,0,glock,German,virgin,21,20,0,0,25,0,0,12,6.040999999999997,29
 2011,15,suzuka,Sunny and dry Air Temp 24 °C (75 °F)[3],1,0,1,0,0,ricciardo,Australian,hrt,22,22,0,0,27,0,0,11,7.3799999999999955,22
-2011,15,suzuka,Sunny and dry Air Temp 24 °C (75 °F)[3],1,0,1,0,0,rosberg,German,mercedes,23,10,62,0,7,114,0,4,-0.008888888888886726,26
+2011,15,suzuka,Sunny and dry Air Temp 24 °C (75 °F)[3],1,0,1,0,0,rosberg,German,mercedes,23,10,62,0,7,114,0,4,-0.008888888888893831,26
 2011,15,suzuka,Sunny and dry Air Temp 24 °C (75 °F)[3],1,0,1,0,0,liuzzi,Italian,hrt,24,23,0,0,23,0,0,11,7.3799999999999955,31
 2011,16,yeongam,"Dry, light rain at the start Air Temp 21 °C (70 °F)[2]",0,0,0,1,0,hamilton,British,mclaren,1,2,178,2,5,388,5,2,0.0,26
 2011,16,yeongam,"Dry, light rain at the start Air Temp 21 °C (70 °F)[2]",0,0,0,1,0,vettel,German,red_bull,2,1,324,9,1,518,9,1,0.2220000000000013,24
@@ -12123,16 +12123,16 @@ season,round,circuit_id,weather,weather_warm,weather_cold,weather_dry,weather_we
 2014,2,sepang,"Dry, 32°C",0,0,0,0,0,button,British,mclaren,10,6,15,0,3,33,0,1,-55.378,34
 2014,2,sepang,"Dry, 32°C",0,0,0,0,0,kvyat,Russian,toro_rosso,11,10,2,0,9,6,0,6,-57.08,19
 2014,2,sepang,"Dry, 32°C",0,0,0,0,0,gutierrez,Mexican,sauber,12,17,0,0,12,0,0,7,-57.062,22
-2014,2,sepang,"Dry, 32°C",0,0,0,0,0,massa,Brazilian,williams,13,7,0,0,20,10,0,4,-56.971,32
-2014,2,sepang,"Dry, 32°C",0,0,0,0,0,perez,Mexican,force_india,14,22,1,0,10,9,0,5,-56.919999999999995,24
-2014,2,sepang,"Dry, 32°C",0,0,0,0,0,grosjean,French,lotus_f1,15,11,0,0,15,0,0,9,-56.54599999999999,27
-2014,2,sepang,"Dry, 32°C",0,0,0,0,0,maldonado,Venezuelan,lotus_f1,16,21,0,0,16,0,0,9,-57.35699999999999,29
-2014,2,sepang,"Dry, 32°C",0,0,0,0,0,sutil,German,sauber,17,18,0,0,11,0,0,7,-57.29999999999999,31
-2014,2,sepang,"Dry, 32°C",0,0,0,0,0,bottas,Finnish,williams,18,8,10,0,5,10,0,4,-56.67499999999999,24
-2014,2,sepang,"Dry, 32°C",0,0,0,0,0,jules_bianchi,French,marussia,19,20,0,0,14,0,0,8,-56.72899999999999,24
-2014,2,sepang,"Dry, 32°C",0,0,0,0,0,kobayashi,Japanese,caterham,20,13,0,0,21,0,0,10,-55.83599999999999,27
-2014,2,sepang,"Dry, 32°C",0,0,0,0,0,chilton,British,marussia,21,15,0,0,13,0,0,8,-55.04299999999999,22
-2014,2,sepang,"Dry, 32°C",0,0,0,0,0,ericsson,Swedish,caterham,22,14,0,0,17,0,0,10,-55.023999999999994,23
+2014,2,sepang,"Dry, 32°C",0,0,0,0,0,massa,Brazilian,williams,13,7,0,0,20,10,0,4,-56.971000000000004,32
+2014,2,sepang,"Dry, 32°C",0,0,0,0,0,perez,Mexican,force_india,14,22,1,0,10,9,0,5,-56.92,24
+2014,2,sepang,"Dry, 32°C",0,0,0,0,0,grosjean,French,lotus_f1,15,11,0,0,15,0,0,9,-56.546,27
+2014,2,sepang,"Dry, 32°C",0,0,0,0,0,maldonado,Venezuelan,lotus_f1,16,21,0,0,16,0,0,9,-57.357,29
+2014,2,sepang,"Dry, 32°C",0,0,0,0,0,sutil,German,sauber,17,18,0,0,11,0,0,7,-57.3,31
+2014,2,sepang,"Dry, 32°C",0,0,0,0,0,bottas,Finnish,williams,18,8,10,0,5,10,0,4,-56.675,24
+2014,2,sepang,"Dry, 32°C",0,0,0,0,0,jules_bianchi,French,marussia,19,20,0,0,14,0,0,8,-56.729,24
+2014,2,sepang,"Dry, 32°C",0,0,0,0,0,kobayashi,Japanese,caterham,20,13,0,0,21,0,0,10,-55.836,27
+2014,2,sepang,"Dry, 32°C",0,0,0,0,0,chilton,British,marussia,21,15,0,0,13,0,0,8,-55.043,22
+2014,2,sepang,"Dry, 32°C",0,0,0,0,0,ericsson,Swedish,caterham,22,14,0,0,17,0,0,10,-55.024,23
 2014,3,bahrain,Dry,0,0,1,0,0,rosberg,German,mercedes,1,2,43,1,1,68,2,1,0.0,28
 2014,3,bahrain,Dry,0,0,1,0,0,hamilton,British,mercedes,2,1,25,1,2,68,2,1,0.27899999999999636,29
 2014,3,bahrain,Dry,0,0,1,0,0,bottas,Finnish,williams,3,8,14,0,8,20,0,4,1.0619999999999976,24
@@ -13422,7 +13422,7 @@ season,round,circuit_id,weather,weather_warm,weather_cold,weather_dry,weather_we
 2017,6,monaco,not found,0,0,0,0,0,kvyat,Russian,toro_rosso,9,14,4,0,15,21,0,5,1.3379999999999992,23
 2017,6,monaco,not found,0,0,0,0,0,hulkenberg,German,renault,10,20,14,0,11,14,0,7,1.4499999999999993,29
 2017,6,monaco,not found,0,0,0,0,0,kevin_magnussen,Danish,haas,11,10,4,0,14,9,0,8,1.7809999999999988,24
-2017,6,monaco,not found,0,0,0,0,0,vandoorne,Belgian,mclaren,12,16,0,0,21,0,0,10,6.717500000000005,25
+2017,6,monaco,not found,0,0,0,0,0,vandoorne,Belgian,mclaren,12,16,0,0,21,0,0,10,6.717500000000001,25
 2017,6,monaco,not found,0,0,0,0,0,hamilton,British,mercedes,13,7,98,2,2,161,3,1,1.927999999999999,32
 2017,6,monaco,not found,0,0,0,0,0,massa,Brazilian,williams,14,9,18,0,9,18,0,6,8.350999999999999,36
 2017,6,monaco,not found,0,0,0,0,0,ocon,French,force_india,15,12,19,0,8,53,0,4,1.923,20
@@ -13606,7 +13606,7 @@ season,round,circuit_id,weather,weather_warm,weather_cold,weather_dry,weather_we
 2017,15,sepang,Cloudy,0,0,0,0,1,kevin_magnussen,Danish,haas,17,12,11,0,14,37,0,8,3.357999999999997,24
 2017,15,sepang,Cloudy,0,0,0,0,1,wehrlein,German,sauber,18,17,5,0,18,5,0,10,3.4069999999999965,22
 2017,15,sepang,Cloudy,0,0,0,0,1,ericsson,Swedish,sauber,19,18,0,0,20,5,0,10,3.8939999999999984,27
-2017,15,sepang,Cloudy,0,0,0,0,1,vettel,German,ferrari,20,4,235,4,2,373,4,2,4.9678333333333455,30
+2017,15,sepang,Cloudy,0,0,0,0,1,vettel,German,ferrari,20,4,235,4,2,373,4,2,4.967833333333331,30
 2017,16,suzuka,Sunny,1,0,0,0,0,hamilton,British,mercedes,1,1,281,7,1,503,9,1,0.0,32
 2017,16,suzuka,Sunny,1,0,0,0,0,vettel,German,ferrari,2,19,247,4,2,385,4,2,0.4720000000000013,30
 2017,16,suzuka,Sunny,1,0,0,0,0,ricciardo,Australian,red_bull,3,3,177,1,4,270,2,3,0.9870000000000019,28
@@ -13663,10 +13663,10 @@ season,round,circuit_id,weather,weather_warm,weather_cold,weather_dry,weather_we
 2017,18,rodriguez,"Sunny, dry",0,0,1,0,0,kevin_magnussen,Danish,haas,14,8,15,0,14,43,0,8,2.955000000000002,25
 2017,18,rodriguez,"Sunny, dry",0,0,1,0,0,grosjean,French,haas,15,15,28,0,13,43,0,8,2.9849999999999994,31
 2017,18,rodriguez,"Sunny, dry",0,0,1,0,0,ricciardo,Australian,red_bull,16,20,192,1,4,315,2,3,0.9589999999999996,28
-2017,18,rodriguez,"Sunny, dry",0,0,1,0,0,brendon_hartley,New Zealander,toro_rosso,17,18,0,0,23,53,0,6,2.3753749999999982,27
+2017,18,rodriguez,"Sunny, dry",0,0,1,0,0,brendon_hartley,New Zealander,toro_rosso,17,18,0,0,23,53,0,6,2.375375000000002,27
 2017,18,rodriguez,"Sunny, dry",0,0,1,0,0,alonso,Spanish,mclaren,18,10,10,0,16,23,0,9,2.7986666666666657,36
 2017,18,rodriguez,"Sunny, dry",0,0,1,0,0,vandoorne,Belgian,mclaren,19,12,13,0,15,23,0,9,2.7986666666666657,25
-2017,18,rodriguez,"Sunny, dry",0,0,1,0,0,gasly,French,toro_rosso,20,13,0,0,22,53,0,6,2.3753749999999982,21
+2017,18,rodriguez,"Sunny, dry",0,0,1,0,0,gasly,French,toro_rosso,20,13,0,0,22,53,0,6,2.375375000000002,21
 2017,19,interlagos,not found,0,0,0,0,0,bottas,Finnish,mercedes,1,2,262,2,3,595,11,1,0.0,28
 2017,19,interlagos,not found,0,0,0,0,0,vettel,German,ferrari,2,1,277,4,2,455,4,2,0.038000000000000256,30
 2017,19,interlagos,not found,0,0,0,0,0,raikkonen,Finnish,ferrari,3,3,178,0,5,455,4,2,0.21600000000000108,38
@@ -14020,8 +14020,8 @@ season,round,circuit_id,weather,weather_warm,weather_cold,weather_dry,weather_we
 2018,16,sochi,not found,0,0,0,0,0,vandoorne,Belgian,mclaren,15,16,8,0,16,58,0,6,4.589999999999996,26
 2018,16,sochi,not found,0,0,0,0,0,alonso,Spanish,mclaren,16,14,50,0,8,58,0,6,4.116999999999997,37
 2018,16,sochi,not found,0,0,0,0,0,gasly,French,toro_rosso,17,19,28,0,13,30,0,8,3.6499999999999986,22
-2018,16,sochi,not found,0,0,0,0,0,ricciardo,Australian,red_bull,18,6,126,2,6,274,3,3,6.3928461538461505,29
-2018,16,sochi,not found,0,0,0,0,0,max_verstappen,Dutch,red_bull,19,5,148,1,5,274,3,3,6.3928461538461505,21
+2018,16,sochi,not found,0,0,0,0,0,ricciardo,Australian,red_bull,18,6,126,2,6,274,3,3,6.392846153846158,29
+2018,16,sochi,not found,0,0,0,0,0,max_verstappen,Dutch,red_bull,19,5,148,1,5,274,3,3,6.392846153846158,21
 2018,16,sochi,not found,0,0,0,0,0,brendon_hartley,New Zealander,toro_rosso,20,20,2,0,19,30,0,8,3.6499999999999986,28
 2018,17,suzuka,not found,0,0,0,0,0,hamilton,British,mercedes,1,1,306,8,1,495,8,1,0.0,33
 2018,17,suzuka,not found,0,0,0,0,0,bottas,Finnish,mercedes,2,2,189,0,3,495,8,1,0.2989999999999995,29
@@ -14382,7 +14382,7 @@ season,round,circuit_id,weather,weather_warm,weather_cold,weather_dry,weather_we
 2019,14,monza,Partly cloudy,0,0,0,0,1,ricciardo,Australian,renault,5,4,22,0,12,43,0,6,0.532,30
 2019,14,monza,Partly cloudy,0,0,0,0,1,hulkenberg,German,renault,6,5,21,0,14,43,0,6,0.7420000000000009,32
 2019,14,monza,Partly cloudy,0,0,0,0,1,sainz,Spanish,mclaren,7,20,58,0,7,82,0,4,1.1479999999999997,25
-2019,14,monza,Partly cloudy,0,0,0,0,1,albon,Thai,red_bull,8,6,26,0,10,254,2,3,5.792266666666674,23
+2019,14,monza,Partly cloudy,0,0,0,0,1,albon,Thai,red_bull,8,6,26,0,10,254,2,3,5.7922666666666665,23
 2019,14,monza,Partly cloudy,0,0,0,0,1,stroll,Canadian,racing_point,9,12,19,0,15,40,0,7,1.9840000000000018,20
 2019,14,monza,Partly cloudy,0,0,0,0,1,giovinazzi,Italian,alfa,10,9,1,0,18,32,0,8,1.2100000000000009,25
 2019,14,monza,Partly cloudy,0,0,0,0,1,kevin_magnussen,Danish,haas,11,18,18,0,16,26,0,9,1.3079999999999998,26
@@ -14393,7 +14393,7 @@ season,round,circuit_id,weather,weather_warm,weather_cold,weather_dry,weather_we
 2019,14,monza,Partly cloudy,0,0,0,0,1,norris,British,mclaren,16,10,24,0,11,82,0,4,1.7610000000000028,19
 2019,14,monza,Partly cloudy,0,0,0,0,1,gasly,French,toro_rosso,17,11,65,0,6,51,0,5,1.8180000000000014,23
 2019,14,monza,Partly cloudy,0,0,0,0,1,perez,Mexican,racing_point,18,7,21,0,13,40,0,7,1.9840000000000018,29
-2019,14,monza,Partly cloudy,0,0,0,0,1,max_verstappen,Dutch,red_bull,19,8,181,2,3,254,2,3,5.792266666666674,21
+2019,14,monza,Partly cloudy,0,0,0,0,1,max_verstappen,Dutch,red_bull,19,8,181,2,3,254,2,3,5.7922666666666665,21
 2019,15,marina_bay,Slightly hazy,0,0,0,0,0,leclerc,Monegasque,ferrari,1,2,182,2,4,351,2,2,0.0,21
 2019,15,marina_bay,Slightly hazy,0,0,0,0,0,hamilton,British,mercedes,2,4,284,8,1,505,10,1,0.1910000000000025,34
 2019,15,marina_bay,Slightly hazy,0,0,0,0,0,vettel,German,ferrari,3,1,169,0,5,351,2,2,0.21999999999999886,32
@@ -15009,17 +15009,17 @@ season,round,circuit_id,weather,weather_warm,weather_cold,weather_dry,weather_we
 2021,10,silverstone,Clear. Ambient: 29 to 31 °C (84 to 88 °F); Surface: 48 to 52 °C (118 to 126 °F),0,0,0,0,0,leclerc,Monegasque,ferrari,4,2,62,0,6,122,0,4,-5.131511923688397,23
 2021,10,silverstone,Clear. Ambient: 29 to 31 °C (84 to 88 °F); Surface: 48 to 52 °C (118 to 126 °F),0,0,0,0,0,norris,British,mclaren,5,4,101,0,4,141,0,3,-5.027120031796503,21
 2021,10,silverstone,Clear. Ambient: 29 to 31 °C (84 to 88 °F); Surface: 48 to 52 °C (118 to 126 °F),0,0,0,0,0,ricciardo,Australian,mclaren,6,5,40,0,8,141,0,3,-5.027120031796503,32
-2021,10,silverstone,Clear. Ambient: 29 to 31 °C (84 to 88 °F); Surface: 48 to 52 °C (118 to 126 °F),0,0,0,0,0,alonso,Spanish,alpine,7,7,20,0,11,32,0,7,-4.1638517594811795,39
-2021,10,silverstone,Clear. Ambient: 29 to 31 °C (84 to 88 °F); Surface: 48 to 52 °C (118 to 126 °F),0,0,0,0,0,vettel,German,aston_martin,8,19,30,0,10,44,0,6,-4.1638517594811795,34
-2021,10,silverstone,Clear. Ambient: 29 to 31 °C (84 to 88 °F); Surface: 48 to 52 °C (118 to 126 °F),0,0,0,0,0,ocon,French,alpine,9,9,12,0,13,32,0,7,-4.1638517594811795,24
+2021,10,silverstone,Clear. Ambient: 29 to 31 °C (84 to 88 °F); Surface: 48 to 52 °C (118 to 126 °F),0,0,0,0,0,alonso,Spanish,alpine,7,7,20,0,11,32,0,7,-4.163851759481194,39
+2021,10,silverstone,Clear. Ambient: 29 to 31 °C (84 to 88 °F); Surface: 48 to 52 °C (118 to 126 °F),0,0,0,0,0,vettel,German,aston_martin,8,19,30,0,10,44,0,6,-4.163851759481194,34
+2021,10,silverstone,Clear. Ambient: 29 to 31 °C (84 to 88 °F); Surface: 48 to 52 °C (118 to 126 °F),0,0,0,0,0,ocon,French,alpine,9,9,12,0,13,32,0,7,-4.163851759481194,24
 2021,10,silverstone,Clear. Ambient: 29 to 31 °C (84 to 88 °F); Surface: 48 to 52 °C (118 to 126 °F),0,0,0,0,0,sainz,Spanish,ferrari,10,6,60,0,7,122,0,4,-5.131511923688397,26
 2021,10,silverstone,Clear. Ambient: 29 to 31 °C (84 to 88 °F); Surface: 48 to 52 °C (118 to 126 °F),0,0,0,0,0,gasly,French,alphatauri,11,11,39,0,9,48,0,5,-1.9353970588235292,25
-2021,10,silverstone,Clear. Ambient: 29 to 31 °C (84 to 88 °F); Surface: 48 to 52 °C (118 to 126 °F),0,0,0,0,0,russell,British,williams,12,12,0,0,17,0,0,9,-4.544872410936211,23
+2021,10,silverstone,Clear. Ambient: 29 to 31 °C (84 to 88 °F); Surface: 48 to 52 °C (118 to 126 °F),0,0,0,0,0,russell,British,williams,12,12,0,0,17,0,0,9,-4.544872410936204,23
 2021,10,silverstone,Clear. Ambient: 29 to 31 °C (84 to 88 °F); Surface: 48 to 52 °C (118 to 126 °F),0,0,0,0,0,raikkonen,Finnish,alfa,13,15,1,0,15,2,0,8,-8.024647058823529,41
-2021,10,silverstone,Clear. Ambient: 29 to 31 °C (84 to 88 °F); Surface: 48 to 52 °C (118 to 126 °F),0,0,0,0,0,stroll,Canadian,aston_martin,14,8,14,0,12,44,0,6,-4.1638517594811795,22
+2021,10,silverstone,Clear. Ambient: 29 to 31 °C (84 to 88 °F); Surface: 48 to 52 °C (118 to 126 °F),0,0,0,0,0,stroll,Canadian,aston_martin,14,8,14,0,12,44,0,6,-4.163851759481194,22
 2021,10,silverstone,Clear. Ambient: 29 to 31 °C (84 to 88 °F); Surface: 48 to 52 °C (118 to 126 °F),0,0,0,0,0,giovinazzi,Italian,alfa,15,13,1,0,16,2,0,8,-8.024647058823529,27
 2021,10,silverstone,Clear. Ambient: 29 to 31 °C (84 to 88 °F); Surface: 48 to 52 °C (118 to 126 °F),0,0,0,0,0,tsunoda,Japanese,alphatauri,16,10,9,0,14,48,0,5,-1.9353970588235292,21
-2021,10,silverstone,Clear. Ambient: 29 to 31 °C (84 to 88 °F); Surface: 48 to 52 °C (118 to 126 °F),0,0,0,0,0,latifi,Canadian,williams,17,14,0,0,20,0,0,9,-4.544872410936211,26
+2021,10,silverstone,Clear. Ambient: 29 to 31 °C (84 to 88 °F); Surface: 48 to 52 °C (118 to 126 °F),0,0,0,0,0,latifi,Canadian,williams,17,14,0,0,20,0,0,9,-4.544872410936204,26
 2021,10,silverstone,Clear. Ambient: 29 to 31 °C (84 to 88 °F); Surface: 48 to 52 °C (118 to 126 °F),0,0,0,0,0,mick_schumacher,German,haas,18,18,0,0,18,0,0,10,0.7181862745098044,22
 2021,10,silverstone,Clear. Ambient: 29 to 31 °C (84 to 88 °F); Surface: 48 to 52 °C (118 to 126 °F),0,0,0,0,0,mazepin,Russian,haas,19,17,0,0,19,0,0,10,0.7181862745098044,22
 2021,11,hungaroring,Rain and sunny. Ambient: 26 to 29 °C (79 to 84 °F); Surface: 31 to 52 °C (88 to 126 °F).[3],0,0,0,1,0,hamilton,British,mercedes,1,2,177,4,2,285,4,2,0.0,36
@@ -15046,16 +15046,16 @@ season,round,circuit_id,weather,weather_warm,weather_cold,weather_dry,weather_we
 2021,12,spa,"Wet, persistent rain",0,0,0,1,0,hamilton,British,mercedes,3,3,195,4,1,303,4,1,-59.666000000000004,36
 2021,12,spa,"Wet, persistent rain",0,0,0,1,0,ricciardo,Australian,mclaren,4,4,50,0,9,163,0,4,-58.901,32
 2021,12,spa,"Wet, persistent rain",0,0,0,1,0,vettel,German,aston_martin,5,5,30,0,12,48,0,7,-58.830000000000005,34
-2021,12,spa,"Wet, persistent rain",0,0,0,1,0,gasly,French,alphatauri,6,6,50,0,8,68,0,6,-58.601000000000006,25
-2021,12,spa,"Wet, persistent rain",0,0,0,1,0,ocon,French,alpine,8,7,39,1,10,77,1,5,-56.25200000000001,24
-2021,12,spa,"Wet, persistent rain",0,0,0,1,0,leclerc,Monegasque,ferrari,9,8,80,0,7,163,0,3,-2.044000000000011,23
-2021,12,spa,"Wet, persistent rain",0,0,0,1,0,latifi,Canadian,williams,10,9,6,0,15,10,0,8,-1.7090000000000103,26
-2021,12,spa,"Wet, persistent rain",0,0,0,1,0,sainz,Spanish,ferrari,11,10,83,0,6,163,0,3,-1.6280000000000072,26
-2021,12,spa,"Wet, persistent rain",0,0,0,1,0,alonso,Spanish,alpine,12,11,38,0,11,77,1,5,-1.5600000000000094,40
-2021,12,spa,"Wet, persistent rain",0,0,0,1,0,bottas,Finnish,mercedes,13,12,108,0,4,303,4,1,-57.263000000000005,32
-2021,12,spa,"Wet, persistent rain",0,0,0,1,0,giovinazzi,Italian,alfa,14,13,1,0,18,3,0,9,-57.459,27
-2021,12,spa,"Wet, persistent rain",0,0,0,1,0,norris,British,mclaren,15,14,113,0,3,163,0,4,-58.901,21
-2021,12,spa,"Wet, persistent rain",0,0,0,1,0,tsunoda,Japanese,alphatauri,16,15,18,0,13,68,0,6,-57.352000000000004,21
+2021,12,spa,"Wet, persistent rain",0,0,0,1,0,gasly,French,alphatauri,6,6,50,0,8,68,0,6,-58.601,25
+2021,12,spa,"Wet, persistent rain",0,0,0,1,0,ocon,French,alpine,8,7,39,1,10,77,1,5,-56.252,24
+2021,12,spa,"Wet, persistent rain",0,0,0,1,0,leclerc,Monegasque,ferrari,9,8,80,0,7,163,0,3,-2.044000000000004,23
+2021,12,spa,"Wet, persistent rain",0,0,0,1,0,latifi,Canadian,williams,10,9,6,0,15,10,0,8,-1.7090000000000032,26
+2021,12,spa,"Wet, persistent rain",0,0,0,1,0,sainz,Spanish,ferrari,11,10,83,0,6,163,0,3,-1.6280000000000001,26
+2021,12,spa,"Wet, persistent rain",0,0,0,1,0,alonso,Spanish,alpine,12,11,38,0,11,77,1,5,-1.5600000000000023,40
+2021,12,spa,"Wet, persistent rain",0,0,0,1,0,bottas,Finnish,mercedes,13,12,108,0,4,303,4,1,-57.263,32
+2021,12,spa,"Wet, persistent rain",0,0,0,1,0,giovinazzi,Italian,alfa,14,13,1,0,18,3,0,9,-57.458999999999996,27
+2021,12,spa,"Wet, persistent rain",0,0,0,1,0,norris,British,mclaren,15,14,113,0,3,163,0,4,-58.900999999999996,21
+2021,12,spa,"Wet, persistent rain",0,0,0,1,0,tsunoda,Japanese,alphatauri,16,15,18,0,13,68,0,6,-57.352,21
 2021,12,spa,"Wet, persistent rain",0,0,0,1,0,mick_schumacher,German,haas,17,16,0,0,19,0,0,10,-55.792,22
 2021,12,spa,"Wet, persistent rain",0,0,0,1,0,mazepin,Russian,haas,18,17,0,0,20,0,0,10,-54.826,22
 2021,12,spa,"Wet, persistent rain",0,0,0,1,0,stroll,Canadian,aston_martin,19,20,18,0,14,48,0,7,-1.533999999999999,22
@@ -15078,23 +15078,23 @@ season,round,circuit_id,weather,weather_warm,weather_cold,weather_dry,weather_we
 2021,13,zandvoort,Sunny,1,0,0,0,0,mick_schumacher,German,haas,17,18,0,0,19,0,0,10,2.5020000000000007,22
 2021,13,zandvoort,Sunny,1,0,0,0,0,mazepin,Russian,haas,18,20,0,0,20,0,0,10,2.99,22
 2021,14,monza,Sunny,1,0,0,0,0,max_verstappen,Dutch,red_bull,1,18,0,7,1,0,8,2,0.0,23
-2021,14,monza,Sunny,1,0,0,0,0,ricciardo,Australian,mclaren,2,1,56,0,9,170,0,4,-0.38234561403509915,32
-2021,14,monza,Sunny,1,0,0,0,0,norris,British,mclaren,3,2,114,0,4,170,0,4,-0.38234561403509915,21
-2021,14,monza,Sunny,1,0,0,0,0,hamilton,British,mercedes,4,17,0,4,2,0,4,1,-1.4512212121212151,36
-2021,14,monza,Sunny,1,0,0,0,0,leclerc,Monegasque,ferrari,5,4,92,0,6,0,0,3,-0.6769377192982517,23
-2021,14,monza,Sunny,1,0,0,0,0,sainz,Spanish,ferrari,6,6,0,0,7,0,0,3,-0.6769377192982517,27
-2021,14,monza,Sunny,1,0,0,0,0,giovinazzi,Italian,alfa,7,13,1,0,18,3,0,9,1.8425111111111008,27
+2021,14,monza,Sunny,1,0,0,0,0,ricciardo,Australian,mclaren,2,1,56,0,9,170,0,4,-0.3823456140350885,32
+2021,14,monza,Sunny,1,0,0,0,0,norris,British,mclaren,3,2,114,0,4,170,0,4,-0.3823456140350885,21
+2021,14,monza,Sunny,1,0,0,0,0,hamilton,British,mercedes,4,17,0,4,2,0,4,1,-1.4512212121212116,36
+2021,14,monza,Sunny,1,0,0,0,0,leclerc,Monegasque,ferrari,5,4,92,0,6,0,0,3,-0.6769377192982446,23
+2021,14,monza,Sunny,1,0,0,0,0,sainz,Spanish,ferrari,6,6,0,0,7,0,0,3,-0.6769377192982446,27
+2021,14,monza,Sunny,1,0,0,0,0,giovinazzi,Italian,alfa,7,13,1,0,18,3,0,9,1.8425111111111114,27
 2021,14,monza,Sunny,1,0,0,0,0,perez,Mexican,red_bull,8,5,108,1,5,0,8,2,0.0,31
-2021,14,monza,Sunny,1,0,0,0,0,stroll,Canadian,aston_martin,9,7,18,0,14,53,0,7,0.8885357449351261,22
-2021,14,monza,Sunny,1,0,0,0,0,alonso,Spanish,alpine,10,8,46,0,10,90,1,5,0.8885357449351261,40
-2021,14,monza,Sunny,1,0,0,0,0,vettel,German,aston_martin,11,12,35,0,12,53,0,7,0.8885357449351261,34
-2021,14,monza,Sunny,1,0,0,0,0,ocon,French,alpine,12,10,44,1,11,90,1,5,0.8885357449351261,24
-2021,14,monza,Sunny,1,0,0,0,0,latifi,Canadian,williams,13,11,7,0,16,20,0,8,-0.3738133333333451,26
-2021,14,monza,Sunny,1,0,0,0,0,russell,British,williams,14,9,13,0,15,20,0,8,-0.3738133333333451,23
-2021,14,monza,Sunny,1,0,0,0,0,mazepin,Russian,haas,16,16,0,0,20,0,0,10,0.5843333333333298,22
-2021,14,monza,Sunny,1,0,0,0,0,kubica,Polish,alfa,17,14,0,0,21,3,0,9,1.8425111111111008,36
-2021,14,monza,Sunny,1,0,0,0,0,mick_schumacher,German,haas,18,15,0,0,19,0,0,10,0.5843333333333298,22
-2021,14,monza,Sunny,1,0,0,0,0,bottas,Finnish,mercedes,19,3,123,0,3,0,4,1,-1.4512212121212151,32
+2021,14,monza,Sunny,1,0,0,0,0,stroll,Canadian,aston_martin,9,7,18,0,14,53,0,7,0.8885357449351332,22
+2021,14,monza,Sunny,1,0,0,0,0,alonso,Spanish,alpine,10,8,46,0,10,90,1,5,0.8885357449351332,40
+2021,14,monza,Sunny,1,0,0,0,0,vettel,German,aston_martin,11,12,35,0,12,53,0,7,0.8885357449351332,34
+2021,14,monza,Sunny,1,0,0,0,0,ocon,French,alpine,12,10,44,1,11,90,1,5,0.8885357449351332,24
+2021,14,monza,Sunny,1,0,0,0,0,latifi,Canadian,williams,13,11,7,0,16,20,0,8,-0.3738133333333309,26
+2021,14,monza,Sunny,1,0,0,0,0,russell,British,williams,14,9,13,0,15,20,0,8,-0.3738133333333309,23
+2021,14,monza,Sunny,1,0,0,0,0,mazepin,Russian,haas,16,16,0,0,20,0,0,10,0.5843333333333369,22
+2021,14,monza,Sunny,1,0,0,0,0,kubica,Polish,alfa,17,14,0,0,21,3,0,9,1.8425111111111114,36
+2021,14,monza,Sunny,1,0,0,0,0,mick_schumacher,German,haas,18,15,0,0,19,0,0,10,0.5843333333333369,22
+2021,14,monza,Sunny,1,0,0,0,0,bottas,Finnish,mercedes,19,3,123,0,3,0,4,1,-1.4512212121212116,32
 2021,15,sochi,Cloudy and rainy,0,0,0,1,1,norris,British,mclaren,1,7,132,0,4,215,1,3,0.0,21
 2021,15,sochi,Cloudy and rainy,0,0,0,1,1,sainz,Spanish,ferrari,2,3,0,0,7,0,0,4,0.5169999999999959,27
 2021,15,sochi,Cloudy and rainy,0,0,0,1,1,russell,British,williams,3,10,15,0,15,22,0,8,0.9899999999999949,23
@@ -15179,21 +15179,21 @@ season,round,circuit_id,weather,weather_warm,weather_cold,weather_dry,weather_we
 2021,19,interlagos,Sunny,1,0,0,0,0,max_verstappen,Dutch,red_bull,2,2,0,9,1,0,10,2,0.34785263157894697,24
 2021,19,interlagos,Sunny,1,0,0,0,0,sainz,Spanish,ferrari,3,6,0,0,7,0,0,3,2.310119298245615,27
 2021,19,interlagos,Sunny,1,0,0,0,0,perez,Mexican,red_bull,4,4,165,1,4,0,10,2,0.34785263157894697,31
-2021,19,interlagos,Sunny,1,0,0,0,0,norris,British,mclaren,5,10,150,0,5,255,1,4,2.2511359649122795,22
+2021,19,interlagos,Sunny,1,0,0,0,0,norris,British,mclaren,5,10,150,0,5,255,1,4,2.2511359649122813,22
 2021,19,interlagos,Sunny,1,0,0,0,0,leclerc,Monegasque,ferrari,6,5,138,0,6,0,0,3,2.310119298245615,24
-2021,19,interlagos,Sunny,1,0,0,0,0,gasly,French,alphatauri,7,7,86,0,9,106,0,6,3.1044756608187285,25
-2021,19,interlagos,Sunny,1,0,0,0,0,ocon,French,alpine,8,8,46,1,11,106,1,5,3.1044756608187285,25
-2021,19,interlagos,Sunny,1,0,0,0,0,vettel,German,aston_martin,9,11,42,0,12,68,0,7,3.1044756608187285,34
+2021,19,interlagos,Sunny,1,0,0,0,0,gasly,French,alphatauri,7,7,86,0,9,106,0,6,3.1044756608187143,25
+2021,19,interlagos,Sunny,1,0,0,0,0,ocon,French,alpine,8,8,46,1,11,106,1,5,3.1044756608187143,25
+2021,19,interlagos,Sunny,1,0,0,0,0,vettel,German,aston_martin,9,11,42,0,12,68,0,7,3.1044756608187143,34
 2021,19,interlagos,Sunny,1,0,0,0,0,hamilton,British,mercedes,10,1,0,5,2,0,6,1,0.0,36
-2021,19,interlagos,Sunny,1,0,0,0,0,ricciardo,Australian,mclaren,11,19,105,1,8,255,1,4,2.2511359649122795,32
-2021,19,interlagos,Sunny,1,0,0,0,0,alonso,Spanish,alpine,12,9,60,0,10,106,1,5,3.1044756608187285,40
+2021,19,interlagos,Sunny,1,0,0,0,0,ricciardo,Australian,mclaren,11,19,105,1,8,255,1,4,2.2511359649122813,32
+2021,19,interlagos,Sunny,1,0,0,0,0,alonso,Spanish,alpine,12,9,60,0,10,106,1,5,3.1044756608187143,40
 2021,19,interlagos,Sunny,1,0,0,0,0,giovinazzi,Italian,alfa,13,14,1,0,18,11,0,9,-4.102447368421053,27
-2021,19,interlagos,Sunny,1,0,0,0,0,stroll,Canadian,aston_martin,14,20,26,0,13,68,0,7,3.1044756608187285,23
-2021,19,interlagos,Sunny,1,0,0,0,0,tsunoda,Japanese,alphatauri,15,15,20,0,14,106,0,6,3.1044756608187285,21
-2021,19,interlagos,Sunny,1,0,0,0,0,latifi,Canadian,williams,16,16,7,0,17,23,0,8,2.092219298245608,26
-2021,19,interlagos,Sunny,1,0,0,0,0,russell,British,williams,17,13,16,0,15,23,0,8,2.092219298245608,23
-2021,19,interlagos,Sunny,1,0,0,0,0,mick_schumacher,German,haas,18,18,0,0,19,0,0,10,-3.120447368421054,22
-2021,19,interlagos,Sunny,1,0,0,0,0,mazepin,Russian,haas,19,17,0,0,21,0,0,10,-3.120447368421054,22
+2021,19,interlagos,Sunny,1,0,0,0,0,stroll,Canadian,aston_martin,14,20,26,0,13,68,0,7,3.1044756608187143,23
+2021,19,interlagos,Sunny,1,0,0,0,0,tsunoda,Japanese,alphatauri,15,15,20,0,14,106,0,6,3.1044756608187143,21
+2021,19,interlagos,Sunny,1,0,0,0,0,latifi,Canadian,williams,16,16,7,0,17,23,0,8,2.092219298245613,26
+2021,19,interlagos,Sunny,1,0,0,0,0,russell,British,williams,17,13,16,0,15,23,0,8,2.092219298245613,23
+2021,19,interlagos,Sunny,1,0,0,0,0,mick_schumacher,German,haas,18,18,0,0,19,0,0,10,-3.1204473684210523,22
+2021,19,interlagos,Sunny,1,0,0,0,0,mazepin,Russian,haas,19,17,0,0,21,0,0,10,-3.1204473684210523,22
 2021,20,losail,Clear,1,0,0,0,0,hamilton,British,mercedes,1,1,0,6,2,0,7,1,0.0,36
 2021,20,losail,Clear,1,0,0,0,0,gasly,French,alphatauri,2,11,92,0,9,112,0,6,0.8129999999999988,25
 2021,20,losail,Clear,1,0,0,0,0,alonso,Spanish,alpine,3,3,62,0,10,112,1,5,0.843,40

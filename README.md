@@ -9,7 +9,7 @@
 
 ## 1. [Data Collection](https://github.com/felipesanze/F1_Predictor/blob/main/1_Collection.ipynb)
 
-Data was scraped from the [Formula 1 website](https://www.formula1.com/) and the [Ergast F1](https://ergast.com/mrd/) API. Scraped seasons from 1950 to 2021.
+Data was scraped from the [Formula 1 website](https://www.formula1.com/) and the [Ergast F1](https://ergast.com/mrd/) API. Scraped seasons from 1983 to 2021.
 Used the Beautiful Soup and Selenium libraries to scrape the 7 dataframes used for this project: `Races`, `Rounds`, `Results`, `Driver Championships`, `Constructors Championships`, `Qualifying`, and `Weather`. They can all be found in the data folder.
 
 ## 2. [Data Preprocessing](https://github.com/felipesanze/F1_Predictor/blob/main/2_Preprocessing.ipynb)
@@ -27,6 +27,10 @@ Used the Beautiful Soup and Selenium libraries to scrape the 7 dataframes used f
 ## 3. [EDA](https://github.com/felipesanze/F1_Predictor/blob/main/3_EDA.ipynb)
 
 ### Feature Correlations
+
+Weather-related features are not very correlated with final race position. I will drop them all but 'weather_wet' as I will use it for an analysis further down below.
+`reg_era` could be a useful categorical variable for the modeling stage later. We must be careful with multicollinearity.
+After dropping redundant columns the feature correlation matrix looks like this:
 
 ![image](Images/correlation_matrix.png)
 
@@ -53,7 +57,7 @@ These are the 2021 circuits ranked by the correlation of final race position and
 
 ### Main challenge
 
-The main modeling challenge in this case is that the model will not predict the winner of each race if I pass it the entire dataset from 1950 to 2021. What we need it to do is to only see one race at a time and predict the winner. For this I needed a custom made scoring and predicting function that processes race per race in batches.  
+The main modeling challenge in this case is that the model will not predict the winner of each race if I pass it the entire dataset from 1983 to 2021. What we need it to do is to only see one race at a time and predict the winner. For this I needed a custom made scoring and predicting function that processes race per race in batches.  
 This also adds a layer of complexity to the model tunning process the evaluation of my results.
 
 ### Prediction and scoring
